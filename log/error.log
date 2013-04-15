@@ -1,0 +1,956 @@
+{
+	"message": "shu is not defined",
+	"stack": [
+		{
+			"time": "Sun, 14 Apr 2013 07:23:26 GMT",
+			"file": "/home/ismax/model.store/hosts/base/index.js",
+			"line": 18,
+			"column": 12,
+			"func": null
+		},
+		{
+			"time": "Sun, 14 Apr 2013 07:23:26 GMT",
+			"file": "module.js",
+			"line": 449,
+			"column": 26,
+			"func": "Module._compile"
+		},
+		{
+			"time": "Sun, 14 Apr 2013 07:23:26 GMT",
+			"file": "module.js",
+			"line": 467,
+			"column": 10,
+			"func": "Module._extensions..js"
+		},
+		{
+			"time": "Sun, 14 Apr 2013 07:23:26 GMT",
+			"file": "module.js",
+			"line": 356,
+			"column": 32,
+			"func": "Module.load"
+		},
+		{
+			"time": "Sun, 14 Apr 2013 07:23:26 GMT",
+			"file": "module.js",
+			"line": 312,
+			"column": 12,
+			"func": "Module._load"
+		}
+	]
+}
+{
+	"message": "Object #<Object> has no method 'setHost'",
+	"stack": [
+		{
+			"time": "Sun, 14 Apr 2013 07:42:01 GMT",
+			"file": "/home/ismax/model.store/hosts/base/router.js",
+			"line": 104,
+			"column": 7,
+			"func": null
+		},
+		{
+			"time": "Sun, 14 Apr 2013 07:42:01 GMT",
+			"file": "module.js",
+			"line": 449,
+			"column": 26,
+			"func": "Module._compile"
+		},
+		{
+			"time": "Sun, 14 Apr 2013 07:42:01 GMT",
+			"file": "module.js",
+			"line": 467,
+			"column": 10,
+			"func": "Module._extensions..js"
+		},
+		{
+			"time": "Sun, 14 Apr 2013 07:42:01 GMT",
+			"file": "module.js",
+			"line": 356,
+			"column": 32,
+			"func": "Module.load"
+		},
+		{
+			"time": "Sun, 14 Apr 2013 07:42:01 GMT",
+			"file": "module.js",
+			"line": 312,
+			"column": 12,
+			"func": "Module._load"
+		}
+	]
+}
+{
+	"message": "route is not defined",
+	"stack": [
+		{
+			"time": "Sun, 14 Apr 2013 14:26:13 GMT",
+			"file": "/home/ismax/model.store/hosts/base/index.js",
+			"line": 21,
+			"column": 38,
+			"func": null
+		},
+		{
+			"time": "Sun, 14 Apr 2013 14:26:13 GMT",
+			"file": "module.js",
+			"line": 449,
+			"column": 26,
+			"func": "Module._compile"
+		},
+		{
+			"time": "Sun, 14 Apr 2013 14:26:13 GMT",
+			"file": "module.js",
+			"line": 467,
+			"column": 10,
+			"func": "Module._extensions..js"
+		},
+		{
+			"time": "Sun, 14 Apr 2013 14:26:13 GMT",
+			"file": "module.js",
+			"line": 356,
+			"column": 32,
+			"func": "Module.load"
+		},
+		{
+			"time": "Sun, 14 Apr 2013 14:26:13 GMT",
+			"file": "module.js",
+			"line": 312,
+			"column": 12,
+			"func": "Module._load"
+		}
+	]
+}
+{
+	"message": "Argumet id not a function",
+	"stack": [
+		{
+			"time": "Sun, 14 Apr 2013 14:33:17 GMT",
+			"file": "/home/ismax/model.store/hosts/base/router.js",
+			"line": 132,
+			"column": 15,
+			"func": "func.setRoute"
+		},
+		{
+			"time": "Sun, 14 Apr 2013 14:33:17 GMT",
+			"file": "/home/ismax/model.store/hosts/base/index.js",
+			"line": 24,
+			"column": 6,
+			"func": null
+		},
+		{
+			"time": "Sun, 14 Apr 2013 14:33:17 GMT",
+			"file": "module.js",
+			"line": 449,
+			"column": 26,
+			"func": "Module._compile"
+		},
+		{
+			"time": "Sun, 14 Apr 2013 14:33:17 GMT",
+			"file": "module.js",
+			"line": 467,
+			"column": 10,
+			"func": "Module._extensions..js"
+		},
+		{
+			"time": "Sun, 14 Apr 2013 14:33:17 GMT",
+			"file": "module.js",
+			"line": 356,
+			"column": 32,
+			"func": "Module.load"
+		}
+	]
+}
+{
+	"message": "route is not defined",
+	"stack": [
+		{
+			"time": "Sun, 14 Apr 2013 16:39:29 GMT",
+			"file": "/home/ismax/model.store/server/hosts.js",
+			"line": 68,
+			"column": 17,
+			"func": null
+		},
+		{
+			"time": "Sun, 14 Apr 2013 16:39:29 GMT",
+			"file": "module.js",
+			"line": 449,
+			"column": 26,
+			"func": "Module._compile"
+		},
+		{
+			"time": "Sun, 14 Apr 2013 16:39:29 GMT",
+			"file": "module.js",
+			"line": 467,
+			"column": 10,
+			"func": "Module._extensions..js"
+		},
+		{
+			"time": "Sun, 14 Apr 2013 16:39:29 GMT",
+			"file": "module.js",
+			"line": 356,
+			"column": 32,
+			"func": "Module.load"
+		},
+		{
+			"time": "Sun, 14 Apr 2013 16:39:29 GMT",
+			"file": "module.js",
+			"line": 312,
+			"column": 12,
+			"func": "Module._load"
+		}
+	]
+}
+{
+	"message": "Argumet id not a function",
+	"stack": [
+		{
+			"time": "Sun, 14 Apr 2013 16:48:55 GMT",
+			"file": "/home/ismax/model.store/server/router.js",
+			"line": 47,
+			"column": 15,
+			"func": "router.setRoute"
+		},
+		{
+			"time": "Sun, 14 Apr 2013 16:48:55 GMT",
+			"file": "/home/ismax/model.store/hosts/base/index.js",
+			"line": 19,
+			"column": 8,
+			"func": null
+		},
+		{
+			"time": "Sun, 14 Apr 2013 16:48:55 GMT",
+			"file": "module.js",
+			"line": 449,
+			"column": 26,
+			"func": "Module._compile"
+		},
+		{
+			"time": "Sun, 14 Apr 2013 16:48:55 GMT",
+			"file": "module.js",
+			"line": 467,
+			"column": 10,
+			"func": "Module._extensions..js"
+		},
+		{
+			"time": "Sun, 14 Apr 2013 16:48:55 GMT",
+			"file": "module.js",
+			"line": 356,
+			"column": 32,
+			"func": "Module.load"
+		}
+	]
+}
+{
+	"message": "first argument must be a string or Buffer",
+	"stack": [
+		{
+			"time": "Sun, 14 Apr 2013 16:50:24 GMT",
+			"file": "http.js",
+			"line": 715,
+			"column": 11,
+			"func": "OutgoingMessage.write"
+		},
+		{
+			"time": "Sun, 14 Apr 2013 16:50:24 GMT",
+			"file": "/home/ismax/model.store/server/hosts.js",
+			"line": 61,
+			"column": 11,
+			"func": "route"
+		},
+		{
+			"time": "Sun, 14 Apr 2013 16:50:24 GMT",
+			"file": "domain.js",
+			"line": 201,
+			"column": 18,
+			"func": "Domain.bind.b"
+		},
+		{
+			"time": "Sun, 14 Apr 2013 16:50:24 GMT",
+			"file": "/home/ismax/model.store/node_modules/jade/lib/jade.js",
+			"line": 245,
+			"column": 5,
+			"func": "exports.renderFile"
+		},
+		{
+			"time": "Sun, 14 Apr 2013 16:50:24 GMT",
+			"file": "/home/ismax/model.store/server/hosts.js",
+			"line": 59,
+			"column": 10,
+			"func": "route"
+		}
+	]
+}
+{
+	"message": "first argument must be a string or Buffer",
+	"stack": [
+		{
+			"time": "Sun, 14 Apr 2013 16:52:09 GMT",
+			"file": "http.js",
+			"line": 715,
+			"column": 11,
+			"func": "OutgoingMessage.write"
+		},
+		{
+			"time": "Sun, 14 Apr 2013 16:52:09 GMT",
+			"file": "/home/ismax/model.store/server/hosts.js",
+			"line": 61,
+			"column": 11,
+			"func": "route"
+		},
+		{
+			"time": "Sun, 14 Apr 2013 16:52:09 GMT",
+			"file": "domain.js",
+			"line": 201,
+			"column": 18,
+			"func": "Domain.bind.b"
+		},
+		{
+			"time": "Sun, 14 Apr 2013 16:52:09 GMT",
+			"file": "/home/ismax/model.store/node_modules/jade/lib/jade.js",
+			"line": 245,
+			"column": 5,
+			"func": "exports.renderFile"
+		},
+		{
+			"time": "Sun, 14 Apr 2013 16:52:09 GMT",
+			"file": "/home/ismax/model.store/server/hosts.js",
+			"line": 59,
+			"column": 10,
+			"func": "route"
+		}
+	]
+}
+{
+	"message": "first argument must be a string or Buffer",
+	"stack": [
+		{
+			"time": "Sun, 14 Apr 2013 16:54:13 GMT",
+			"file": "http.js",
+			"line": 715,
+			"column": 11,
+			"func": "OutgoingMessage.write"
+		},
+		{
+			"time": "Sun, 14 Apr 2013 16:54:13 GMT",
+			"file": "/home/ismax/model.store/server/hosts.js",
+			"line": 61,
+			"column": 11,
+			"func": "route"
+		},
+		{
+			"time": "Sun, 14 Apr 2013 16:54:13 GMT",
+			"file": "domain.js",
+			"line": 201,
+			"column": 18,
+			"func": "Domain.bind.b"
+		},
+		{
+			"time": "Sun, 14 Apr 2013 16:54:13 GMT",
+			"file": "/home/ismax/model.store/node_modules/jade/lib/jade.js",
+			"line": 245,
+			"column": 5,
+			"func": "exports.renderFile"
+		},
+		{
+			"time": "Sun, 14 Apr 2013 16:54:13 GMT",
+			"file": "/home/ismax/model.store/server/hosts.js",
+			"line": 59,
+			"column": 10,
+			"func": "route"
+		}
+	]
+}
+{
+	"message": "Object function (httpErr, req, res){\r\n    var me    = arguments.callee;\r\n    var _url  = url.parse(req.url);\r\n  \r\n    /**\r\n     * Функция контроля последовательности\r\n     * выполнения функций связанных с маршрутом\r\n     */\r\n    function next(caller){\r\n  \r\n      // Определения наличия марщрута в списке\r\n      if(util.isArray(handle[_url.pathname])){\r\n        var funcs = handle[_url.pathname];\r\n        var index = funcs.indexOf(caller);\r\n  \r\n        if((index < 0) && (me == caller)){\r\n          index = 0;\r\n        }\r\n  \r\n        if(typeof funcs[index] === 'function'){\r\n          funcs[index](httpErr, req, res, function(){\r\n            next(funcs[index+1]);\r\n          });\r\n        }\r\n      }else{\r\n        // Выдача статики в случае \r\n        // отсудствии подходящего маршрута\r\n        file.serve(req, res, httpErr.bind(function(err, result){\r\n          if (err && (err.status === 404)){\r\n    \r\n            // Рендеринг шаблона 404 ошибки\r\n            // при отсудствии подходящего файла\r\n            jade.renderFile(__dirname+'/view/404.jade',{}, httpErr.bind(function (err, html){\r\n              res.writeHead(404, {'Content-Type': 'text/html; charset=utf8'});\r\n              res.write(html);\r\n              res.end();\r\n            }));\r\n          }\r\n        })); \r\n      }\r\n    }\r\n    \r\n    next(arguments.callee);\r\n  } has no method 'setRoute'",
+	"stack": [
+		{
+			"time": "Sun, 14 Apr 2013 16:57:51 GMT",
+			"file": "/home/ismax/model.store/hosts/base/index.js",
+			"line": 20,
+			"column": 8,
+			"func": null
+		},
+		{
+			"time": "Sun, 14 Apr 2013 16:57:51 GMT",
+			"file": "module.js",
+			"line": 449,
+			"column": 26,
+			"func": "Module._compile"
+		},
+		{
+			"time": "Sun, 14 Apr 2013 16:57:51 GMT",
+			"file": "module.js",
+			"line": 467,
+			"column": 10,
+			"func": "Module._extensions..js"
+		},
+		{
+			"time": "Sun, 14 Apr 2013 16:57:51 GMT",
+			"file": "module.js",
+			"line": 356,
+			"column": 32,
+			"func": "Module.load"
+		},
+		{
+			"time": "Sun, 14 Apr 2013 16:57:51 GMT",
+			"file": "module.js",
+			"line": 312,
+			"column": 12,
+			"func": "Module._load"
+		}
+	]
+}
+{
+	"message": "first argument must be a string or Buffer",
+	"stack": [
+		{
+			"time": "Sun, 14 Apr 2013 16:58:38 GMT",
+			"file": "http.js",
+			"line": 715,
+			"column": 11,
+			"func": "OutgoingMessage.write"
+		},
+		{
+			"time": "Sun, 14 Apr 2013 16:58:38 GMT",
+			"file": "/home/ismax/model.store/server/router.js",
+			"line": 94,
+			"column": 19,
+			"func": "router.route"
+		},
+		{
+			"time": "Sun, 14 Apr 2013 16:58:38 GMT",
+			"file": "domain.js",
+			"line": 201,
+			"column": 18,
+			"func": "Domain.bind.b"
+		},
+		{
+			"time": "Sun, 14 Apr 2013 16:58:38 GMT",
+			"file": "/home/ismax/model.store/node_modules/jade/lib/jade.js",
+			"line": 245,
+			"column": 5,
+			"func": "exports.renderFile"
+		},
+		{
+			"time": "Sun, 14 Apr 2013 16:58:38 GMT",
+			"file": "/home/ismax/model.store/server/router.js",
+			"line": 92,
+			"column": 18,
+			"func": "router.route"
+		}
+	]
+}
+{
+	"message": "first argument must be a string or Buffer",
+	"stack": [
+		{
+			"time": "Sun, 14 Apr 2013 18:27:09 GMT",
+			"file": "http.js",
+			"line": 715,
+			"column": 11,
+			"func": "OutgoingMessage.write"
+		},
+		{
+			"time": "Sun, 14 Apr 2013 18:27:09 GMT",
+			"file": "/home/ismax/model.store/server/router.js",
+			"line": 94,
+			"column": 19,
+			"func": "router.route"
+		},
+		{
+			"time": "Sun, 14 Apr 2013 18:27:09 GMT",
+			"file": "domain.js",
+			"line": 201,
+			"column": 18,
+			"func": "Domain.bind.b"
+		},
+		{
+			"time": "Sun, 14 Apr 2013 18:27:09 GMT",
+			"file": "/home/ismax/model.store/node_modules/jade/lib/jade.js",
+			"line": 245,
+			"column": 5,
+			"func": "exports.renderFile"
+		},
+		{
+			"time": "Sun, 14 Apr 2013 18:27:09 GMT",
+			"file": "/home/ismax/model.store/server/router.js",
+			"line": 92,
+			"column": 18,
+			"func": "router.route"
+		}
+	]
+}
+{
+	"message": "first argument must be a string or Buffer",
+	"stack": [
+		{
+			"time": "Sun, 14 Apr 2013 18:31:28 GMT",
+			"file": "http.js",
+			"line": 715,
+			"column": 11,
+			"func": "OutgoingMessage.write"
+		},
+		{
+			"time": "Sun, 14 Apr 2013 18:31:28 GMT",
+			"file": "/home/ismax/model.store/server/router.js",
+			"line": 94,
+			"column": 19,
+			"func": "router.route"
+		},
+		{
+			"time": "Sun, 14 Apr 2013 18:31:28 GMT",
+			"file": "domain.js",
+			"line": 201,
+			"column": 18,
+			"func": "Domain.bind.b"
+		},
+		{
+			"time": "Sun, 14 Apr 2013 18:31:28 GMT",
+			"file": "/home/ismax/model.store/node_modules/jade/lib/jade.js",
+			"line": 245,
+			"column": 5,
+			"func": "exports.renderFile"
+		},
+		{
+			"time": "Sun, 14 Apr 2013 18:31:28 GMT",
+			"file": "/home/ismax/model.store/server/router.js",
+			"line": 92,
+			"column": 18,
+			"func": "router.route"
+		}
+	]
+}
+{
+	"message": "Cannot find module '../router'",
+	"stack": [
+		{
+			"time": "Sun, 14 Apr 2013 19:42:19 GMT",
+			"file": "module.js",
+			"line": 338,
+			"column": 15,
+			"func": "Module._resolveFilename"
+		},
+		{
+			"time": "Sun, 14 Apr 2013 19:42:19 GMT",
+			"file": "module.js",
+			"line": 280,
+			"column": 25,
+			"func": "Module._load"
+		},
+		{
+			"time": "Sun, 14 Apr 2013 19:42:19 GMT",
+			"file": "module.js",
+			"line": 362,
+			"column": 17,
+			"func": "Module.require"
+		},
+		{
+			"time": "Sun, 14 Apr 2013 19:42:19 GMT",
+			"file": "module.js",
+			"line": 378,
+			"column": 17,
+			"func": "require"
+		},
+		{
+			"time": "Sun, 14 Apr 2013 19:42:19 GMT",
+			"file": "/home/ismax/model.store/hosts/base/controller/index.js",
+			"line": 16,
+			"column": 15,
+			"func": null
+		}
+	]
+}
+{
+	"message": "Cannot find module '../router'",
+	"stack": [
+		{
+			"time": "Sun, 14 Apr 2013 19:44:38 GMT",
+			"file": "module.js",
+			"line": 338,
+			"column": 15,
+			"func": "Module._resolveFilename"
+		},
+		{
+			"time": "Sun, 14 Apr 2013 19:44:38 GMT",
+			"file": "module.js",
+			"line": 280,
+			"column": 25,
+			"func": "Module._load"
+		},
+		{
+			"time": "Sun, 14 Apr 2013 19:44:38 GMT",
+			"file": "module.js",
+			"line": 362,
+			"column": 17,
+			"func": "Module.require"
+		},
+		{
+			"time": "Sun, 14 Apr 2013 19:44:38 GMT",
+			"file": "module.js",
+			"line": 378,
+			"column": 17,
+			"func": "require"
+		},
+		{
+			"time": "Sun, 14 Apr 2013 19:44:38 GMT",
+			"file": "/home/ismax/model.store/hosts/base/controller/index.js",
+			"line": 16,
+			"column": 15,
+			"func": null
+		}
+	]
+}
+{
+	"message": "Unexpected token {",
+	"stack": [
+		{
+			"time": "Mon, 15 Apr 2013 04:55:37 GMT",
+			"file": "module.js",
+			"line": 437,
+			"column": 25,
+			"func": "Module._compile"
+		},
+		{
+			"time": "Mon, 15 Apr 2013 04:55:37 GMT",
+			"file": "module.js",
+			"line": 467,
+			"column": 10,
+			"func": "Module._extensions..js"
+		},
+		{
+			"time": "Mon, 15 Apr 2013 04:55:37 GMT",
+			"file": "module.js",
+			"line": 356,
+			"column": 32,
+			"func": "Module.load"
+		},
+		{
+			"time": "Mon, 15 Apr 2013 04:55:37 GMT",
+			"file": "module.js",
+			"line": 312,
+			"column": 12,
+			"func": "Module._load"
+		},
+		{
+			"time": "Mon, 15 Apr 2013 04:55:37 GMT",
+			"file": "module.js",
+			"line": 362,
+			"column": 17,
+			"func": "Module.require"
+		}
+	]
+}
+{
+	"message": "Unexpected token {",
+	"stack": [
+		{
+			"time": "Mon, 15 Apr 2013 04:56:46 GMT",
+			"file": "module.js",
+			"line": 437,
+			"column": 25,
+			"func": "Module._compile"
+		},
+		{
+			"time": "Mon, 15 Apr 2013 04:56:46 GMT",
+			"file": "module.js",
+			"line": 467,
+			"column": 10,
+			"func": "Module._extensions..js"
+		},
+		{
+			"time": "Mon, 15 Apr 2013 04:56:46 GMT",
+			"file": "module.js",
+			"line": 356,
+			"column": 32,
+			"func": "Module.load"
+		},
+		{
+			"time": "Mon, 15 Apr 2013 04:56:46 GMT",
+			"file": "module.js",
+			"line": 312,
+			"column": 12,
+			"func": "Module._load"
+		},
+		{
+			"time": "Mon, 15 Apr 2013 04:56:46 GMT",
+			"file": "module.js",
+			"line": 362,
+			"column": 17,
+			"func": "Module.require"
+		}
+	]
+}
+{
+	"message": "fs is not defined",
+	"stack": [
+		{
+			"time": "Mon, 15 Apr 2013 04:57:32 GMT",
+			"file": "/home/ismax/model.store/server/router.js",
+			"line": 29,
+			"column": 5,
+			"func": "router.setStaticPath"
+		},
+		{
+			"time": "Mon, 15 Apr 2013 04:57:32 GMT",
+			"file": "/home/ismax/model.store/hosts/base/index.js",
+			"line": 22,
+			"column": 8,
+			"func": null
+		},
+		{
+			"time": "Mon, 15 Apr 2013 04:57:32 GMT",
+			"file": "module.js",
+			"line": 449,
+			"column": 26,
+			"func": "Module._compile"
+		},
+		{
+			"time": "Mon, 15 Apr 2013 04:57:32 GMT",
+			"file": "module.js",
+			"line": 467,
+			"column": 10,
+			"func": "Module._extensions..js"
+		},
+		{
+			"time": "Mon, 15 Apr 2013 04:57:32 GMT",
+			"file": "module.js",
+			"line": 356,
+			"column": 32,
+			"func": "Module.load"
+		}
+	]
+}
+{
+	"message": "Path \"?\" no exist",
+	"stack": [
+		{
+			"time": "Mon, 15 Apr 2013 05:03:46 GMT",
+			"file": "/home/ismax/model.store/server/router.js",
+			"line": 34,
+			"column": 15,
+			"func": "router.setStaticPath"
+		},
+		{
+			"time": "Mon, 15 Apr 2013 05:03:46 GMT",
+			"file": "fs.js",
+			"line": 91,
+			"column": 19,
+			"func": "fs.exists"
+		}
+	]
+}
+{
+	"message": "Path \"/home/ismax/model.store/hosts/base/../../../../static\" no exist",
+	"stack": [
+		{
+			"time": "Mon, 15 Apr 2013 05:04:34 GMT",
+			"file": "/home/ismax/model.store/server/router.js",
+			"line": 34,
+			"column": 15,
+			"func": "router.setStaticPath"
+		},
+		{
+			"time": "Mon, 15 Apr 2013 05:04:34 GMT",
+			"file": "fs.js",
+			"line": 91,
+			"column": 19,
+			"func": "fs.exists"
+		}
+	]
+}
+{
+	"message": "Path \"/home/ismax/model.store/hosts/base/../../../../static\" no exist",
+	"stack": [
+		{
+			"time": "Mon, 15 Apr 2013 05:05:28 GMT",
+			"file": "/home/ismax/model.store/server/router.js",
+			"line": 34,
+			"column": 15,
+			"func": "router.setStaticPath"
+		},
+		{
+			"time": "Mon, 15 Apr 2013 05:05:28 GMT",
+			"file": "fs.js",
+			"line": 91,
+			"column": 19,
+			"func": "fs.exists"
+		}
+	]
+}
+{
+	"message": "Path \"/home/ismax/model.store/hosts/base./view/\" no exist",
+	"stack": [
+		{
+			"time": "Mon, 15 Apr 2013 05:16:47 GMT",
+			"file": "/home/ismax/model.store/server/router.js",
+			"line": 48,
+			"column": 15,
+			"func": "router.setViewPath"
+		},
+		{
+			"time": "Mon, 15 Apr 2013 05:16:47 GMT",
+			"file": "fs.js",
+			"line": 91,
+			"column": 19,
+			"func": "fs.exists"
+		}
+	]
+}
+{
+	"message": "__path is not defined",
+	"stack": [
+		{
+			"time": "Mon, 15 Apr 2013 05:19:08 GMT",
+			"file": "/home/ismax/model.store/hosts/base/index.js",
+			"line": 24,
+			"column": 13,
+			"func": null
+		},
+		{
+			"time": "Mon, 15 Apr 2013 05:19:08 GMT",
+			"file": "module.js",
+			"line": 449,
+			"column": 26,
+			"func": "Module._compile"
+		},
+		{
+			"time": "Mon, 15 Apr 2013 05:19:08 GMT",
+			"file": "module.js",
+			"line": 467,
+			"column": 10,
+			"func": "Module._extensions..js"
+		},
+		{
+			"time": "Mon, 15 Apr 2013 05:19:08 GMT",
+			"file": "module.js",
+			"line": 356,
+			"column": 32,
+			"func": "Module.load"
+		},
+		{
+			"time": "Mon, 15 Apr 2013 05:19:08 GMT",
+			"file": "module.js",
+			"line": 312,
+			"column": 12,
+			"func": "Module._load"
+		}
+	]
+}
+{
+	"message": "Cannot find module './lib/cookie'",
+	"stack": [
+		{
+			"time": "Mon, 15 Apr 2013 05:47:05 GMT",
+			"file": "module.js",
+			"line": 338,
+			"column": 15,
+			"func": "Module._resolveFilename"
+		},
+		{
+			"time": "Mon, 15 Apr 2013 05:47:05 GMT",
+			"file": "module.js",
+			"line": 280,
+			"column": 25,
+			"func": "Module._load"
+		},
+		{
+			"time": "Mon, 15 Apr 2013 05:47:05 GMT",
+			"file": "module.js",
+			"line": 362,
+			"column": 17,
+			"func": "Module.require"
+		},
+		{
+			"time": "Mon, 15 Apr 2013 05:47:05 GMT",
+			"file": "module.js",
+			"line": 378,
+			"column": 17,
+			"func": "require"
+		},
+		{
+			"time": "Mon, 15 Apr 2013 05:47:05 GMT",
+			"file": "/home/ismax/model.store/server/socket.js",
+			"line": 17,
+			"column": 21,
+			"func": null
+		}
+	]
+}
+{
+	"message": "Cannot find module '/../lib/cookie'",
+	"stack": [
+		{
+			"time": "Mon, 15 Apr 2013 05:47:40 GMT",
+			"file": "module.js",
+			"line": 338,
+			"column": 15,
+			"func": "Module._resolveFilename"
+		},
+		{
+			"time": "Mon, 15 Apr 2013 05:47:40 GMT",
+			"file": "module.js",
+			"line": 280,
+			"column": 25,
+			"func": "Module._load"
+		},
+		{
+			"time": "Mon, 15 Apr 2013 05:47:40 GMT",
+			"file": "module.js",
+			"line": 362,
+			"column": 17,
+			"func": "Module.require"
+		},
+		{
+			"time": "Mon, 15 Apr 2013 05:47:40 GMT",
+			"file": "module.js",
+			"line": 378,
+			"column": 17,
+			"func": "require"
+		},
+		{
+			"time": "Mon, 15 Apr 2013 05:47:40 GMT",
+			"file": "/home/ismax/model.store/server/socket.js",
+			"line": 17,
+			"column": 21,
+			"func": null
+		}
+	]
+}
+{
+	"message": "Cannot find module '../../../socket'",
+	"stack": [
+		{
+			"time": "Mon, 15 Apr 2013 05:48:01 GMT",
+			"file": "module.js",
+			"line": 338,
+			"column": 15,
+			"func": "Module._resolveFilename"
+		},
+		{
+			"time": "Mon, 15 Apr 2013 05:48:01 GMT",
+			"file": "module.js",
+			"line": 280,
+			"column": 25,
+			"func": "Module._load"
+		},
+		{
+			"time": "Mon, 15 Apr 2013 05:48:01 GMT",
+			"file": "module.js",
+			"line": 362,
+			"column": 17,
+			"func": "Module.require"
+		},
+		{
+			"time": "Mon, 15 Apr 2013 05:48:01 GMT",
+			"file": "module.js",
+			"line": 378,
+			"column": 17,
+			"func": "require"
+		},
+		{
+			"time": "Mon, 15 Apr 2013 05:48:01 GMT",
+			"file": "/home/ismax/model.store/hosts/base/controller/index.js",
+			"line": 15,
+			"column": 15,
+			"func": null
+		}
+	]
+}
