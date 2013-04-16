@@ -68,8 +68,8 @@ exports.listen = function(server){
     // Пред-обработка сокет соединения
     sio.set('authorization', function (data, accept){
       if(data.headers.cookie){
-        var cookie = cookie.parse(data.headers.cookie);
-        data.index = cookie['real_session'];
+        var _cookie = cookie.parse(data.headers.cookie);
+        data.index = _cookie['ismax_session'];
         
       }
       return accept(null, true);

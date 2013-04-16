@@ -954,3 +954,323 @@
 		}
 	]
 }
+{
+	"message": "My error",
+	"stack": [
+		{
+			"time": "Mon, 15 Apr 2013 06:30:46 GMT",
+			"file": "/home/ismax/model.store/hosts/base/controller/index.js",
+			"line": 22,
+			"column": 9,
+			"func": "exports.index"
+		},
+		{
+			"time": "Mon, 15 Apr 2013 06:30:46 GMT",
+			"file": "/home/ismax/model.store/server/router.js",
+			"line": 106,
+			"column": 23,
+			"func": "next"
+		},
+		{
+			"time": "Mon, 15 Apr 2013 06:30:46 GMT",
+			"file": "/home/ismax/model.store/server/router.js",
+			"line": 137,
+			"column": 5,
+			"func": "router.route"
+		},
+		{
+			"time": "Mon, 15 Apr 2013 06:30:46 GMT",
+			"file": "/home/ismax/model.store/server/hosts.js",
+			"line": 55,
+			"column": 27,
+			"func": "route"
+		},
+		{
+			"time": "Mon, 15 Apr 2013 06:30:46 GMT",
+			"file": "/home/ismax/model.store/server/index.js",
+			"line": 42,
+			"column": 13,
+			"func": null
+		}
+	]
+}
+{
+	"message": "Cannot find module '../../lib/cookie'",
+	"stack": [
+		{
+			"time": "Mon, 15 Apr 2013 15:55:57 GMT",
+			"file": "module.js",
+			"line": 338,
+			"column": 15,
+			"func": "Module._resolveFilename"
+		},
+		{
+			"time": "Mon, 15 Apr 2013 15:55:57 GMT",
+			"file": "module.js",
+			"line": 280,
+			"column": 25,
+			"func": "Module._load"
+		},
+		{
+			"time": "Mon, 15 Apr 2013 15:55:57 GMT",
+			"file": "module.js",
+			"line": 362,
+			"column": 17,
+			"func": "Module.require"
+		},
+		{
+			"time": "Mon, 15 Apr 2013 15:55:57 GMT",
+			"file": "module.js",
+			"line": 378,
+			"column": 17,
+			"func": "require"
+		},
+		{
+			"time": "Mon, 15 Apr 2013 15:55:57 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/controller/secure.js",
+			"line": 16,
+			"column": 21,
+			"func": null
+		}
+	]
+}
+{
+	"message": "Unexpected token {",
+	"stack": [
+		{
+			"time": "Tue, 16 Apr 2013 12:09:57 GMT",
+			"file": "module.js",
+			"line": 437,
+			"column": 25,
+			"func": "Module._compile"
+		},
+		{
+			"time": "Tue, 16 Apr 2013 12:09:57 GMT",
+			"file": "module.js",
+			"line": 467,
+			"column": 10,
+			"func": "Module._extensions..js"
+		},
+		{
+			"time": "Tue, 16 Apr 2013 12:09:57 GMT",
+			"file": "module.js",
+			"line": 356,
+			"column": 32,
+			"func": "Module.load"
+		},
+		{
+			"time": "Tue, 16 Apr 2013 12:09:57 GMT",
+			"file": "module.js",
+			"line": 312,
+			"column": 12,
+			"func": "Module._load"
+		},
+		{
+			"time": "Tue, 16 Apr 2013 12:09:57 GMT",
+			"file": "module.js",
+			"line": 362,
+			"column": 17,
+			"func": "Module.require"
+		}
+	]
+}
+{
+	"message": "Cannot call method 'parse' of undefined",
+	"stack": [
+		{
+			"time": "Tue, 16 Apr 2013 12:54:09 GMT",
+			"file": "/home/ismax/model.store/server/socket.js",
+			"line": 71,
+			"column": 29,
+			"func": "exports.listen.sio.sockets.on.socket.on.me"
+		},
+		{
+			"time": "Tue, 16 Apr 2013 12:54:09 GMT",
+			"file": "/home/ismax/model.store/node_modules/socket.io/lib/manager.js",
+			"line": 910,
+			"column": 31,
+			"func": "Manager.authorize"
+		},
+		{
+			"time": "Tue, 16 Apr 2013 12:54:09 GMT",
+			"file": "/home/ismax/model.store/node_modules/socket.io/lib/manager.js",
+			"line": 786,
+			"column": 8,
+			"func": "Manager.handleHandshake"
+		},
+		{
+			"time": "Tue, 16 Apr 2013 12:54:09 GMT",
+			"file": "/home/ismax/model.store/node_modules/socket.io/lib/manager.js",
+			"line": 593,
+			"column": 12,
+			"func": "Manager.handleRequest"
+		},
+		{
+			"time": "Tue, 16 Apr 2013 12:54:09 GMT",
+			"file": "/home/ismax/model.store/node_modules/socket.io/lib/manager.js",
+			"line": 119,
+			"column": 10,
+			"func": null
+		}
+	]
+}
+{
+	"message": "Cannot call method 'parse' of undefined",
+	"stack": [
+		{
+			"time": "Tue, 16 Apr 2013 13:00:53 GMT",
+			"file": "/home/ismax/model.store/server/socket.js",
+			"line": 71,
+			"column": 29,
+			"func": "exports.listen.sio.sockets.on.socket.on.me"
+		},
+		{
+			"time": "Tue, 16 Apr 2013 13:00:53 GMT",
+			"file": "/home/ismax/model.store/node_modules/socket.io/lib/manager.js",
+			"line": 910,
+			"column": 31,
+			"func": "Manager.authorize"
+		},
+		{
+			"time": "Tue, 16 Apr 2013 13:00:53 GMT",
+			"file": "/home/ismax/model.store/node_modules/socket.io/lib/manager.js",
+			"line": 786,
+			"column": 8,
+			"func": "Manager.handleHandshake"
+		},
+		{
+			"time": "Tue, 16 Apr 2013 13:00:53 GMT",
+			"file": "/home/ismax/model.store/node_modules/socket.io/lib/manager.js",
+			"line": 593,
+			"column": 12,
+			"func": "Manager.handleRequest"
+		},
+		{
+			"time": "Tue, 16 Apr 2013 13:00:53 GMT",
+			"file": "/home/ismax/model.store/node_modules/socket.io/lib/manager.js",
+			"line": 119,
+			"column": 10,
+			"func": null
+		}
+	]
+}
+{
+	"message": "Cannot call method 'parse' of undefined",
+	"stack": [
+		{
+			"time": "Tue, 16 Apr 2013 13:01:35 GMT",
+			"file": "/home/ismax/model.store/server/socket.js",
+			"line": 71,
+			"column": 29,
+			"func": "exports.listen.sio.sockets.on.socket.on.me"
+		},
+		{
+			"time": "Tue, 16 Apr 2013 13:01:35 GMT",
+			"file": "/home/ismax/model.store/node_modules/socket.io/lib/manager.js",
+			"line": 910,
+			"column": 31,
+			"func": "Manager.authorize"
+		},
+		{
+			"time": "Tue, 16 Apr 2013 13:01:35 GMT",
+			"file": "/home/ismax/model.store/node_modules/socket.io/lib/manager.js",
+			"line": 786,
+			"column": 8,
+			"func": "Manager.handleHandshake"
+		},
+		{
+			"time": "Tue, 16 Apr 2013 13:01:35 GMT",
+			"file": "/home/ismax/model.store/node_modules/socket.io/lib/manager.js",
+			"line": 593,
+			"column": 12,
+			"func": "Manager.handleRequest"
+		},
+		{
+			"time": "Tue, 16 Apr 2013 13:01:35 GMT",
+			"file": "/home/ismax/model.store/node_modules/socket.io/lib/manager.js",
+			"line": 119,
+			"column": 10,
+			"func": null
+		}
+	]
+}
+{
+	"message": "Cannot call method 'parse' of undefined",
+	"stack": [
+		{
+			"time": "Tue, 16 Apr 2013 13:01:55 GMT",
+			"file": "/home/ismax/model.store/server/socket.js",
+			"line": 71,
+			"column": 29,
+			"func": "exports.listen.sio.sockets.on.socket.on.me"
+		},
+		{
+			"time": "Tue, 16 Apr 2013 13:01:55 GMT",
+			"file": "/home/ismax/model.store/node_modules/socket.io/lib/manager.js",
+			"line": 910,
+			"column": 31,
+			"func": "Manager.authorize"
+		},
+		{
+			"time": "Tue, 16 Apr 2013 13:01:55 GMT",
+			"file": "/home/ismax/model.store/node_modules/socket.io/lib/manager.js",
+			"line": 786,
+			"column": 8,
+			"func": "Manager.handleHandshake"
+		},
+		{
+			"time": "Tue, 16 Apr 2013 13:01:55 GMT",
+			"file": "/home/ismax/model.store/node_modules/socket.io/lib/manager.js",
+			"line": 593,
+			"column": 12,
+			"func": "Manager.handleRequest"
+		},
+		{
+			"time": "Tue, 16 Apr 2013 13:01:55 GMT",
+			"file": "/home/ismax/model.store/node_modules/socket.io/lib/manager.js",
+			"line": 119,
+			"column": 10,
+			"func": null
+		}
+	]
+}
+{
+	"message": "Cannot call method 'parse' of undefined",
+	"stack": [
+		{
+			"time": "Tue, 16 Apr 2013 13:10:24 GMT",
+			"file": "/home/ismax/model.store/server/socket.js",
+			"line": 71,
+			"column": 29,
+			"func": "exports.listen.sio.sockets.on.socket.on.me"
+		},
+		{
+			"time": "Tue, 16 Apr 2013 13:10:24 GMT",
+			"file": "/home/ismax/model.store/node_modules/socket.io/lib/manager.js",
+			"line": 910,
+			"column": 31,
+			"func": "Manager.authorize"
+		},
+		{
+			"time": "Tue, 16 Apr 2013 13:10:24 GMT",
+			"file": "/home/ismax/model.store/node_modules/socket.io/lib/manager.js",
+			"line": 786,
+			"column": 8,
+			"func": "Manager.handleHandshake"
+		},
+		{
+			"time": "Tue, 16 Apr 2013 13:10:24 GMT",
+			"file": "/home/ismax/model.store/node_modules/socket.io/lib/manager.js",
+			"line": 593,
+			"column": 12,
+			"func": "Manager.handleRequest"
+		},
+		{
+			"time": "Tue, 16 Apr 2013 13:10:24 GMT",
+			"file": "/home/ismax/model.store/node_modules/socket.io/lib/manager.js",
+			"line": 119,
+			"column": 10,
+			"func": null
+		}
+	]
+}

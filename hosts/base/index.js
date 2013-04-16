@@ -17,7 +17,7 @@ var server = require('../../server');
 var index = require('./controller/index');
 
 // Инициализация хоста
-var host = server.init('www.ismaxonline.com:3000');
+var host = server.init('www.ismaxonline.com');
 
 //Установка путей для статики и шаблонов
 host.setStaticPath(__dirname+'/../../../static/base');
