@@ -18,6 +18,7 @@ var index     = require('./controller/index');
 var xhr       = require('./controller/xhr');
 var secure    = require('./controller/secure');
 var profile   = require('./controller/profile');
+var category  = require('./controller/category');
 
 // Инициализация хоста
 var host = server.init('panel.ismaxonline.com');
@@ -29,9 +30,16 @@ host.setViewPath(__dirname+'/view/');
 // Назначение HTTP маршрутов
 host.setRoute('/', index.index);
 
-host.setRoute('/secure/isauth', secure.auth, secure.isAuth);
-host.setRoute('/secure/signin', secure.signin);
+host.setRoute('/secure/isauth', xhr.isXhr, secure.auth, secure.isAuth);
+host.setRoute('/secure/signin', xhr.isXhr, secure.guest, secure.signin);
 host.setRoute('/secure/signout', secure.auth, secure.signout);
-host.setRoute('/secure/change', secure.auth, secure.change);
+host.setRoute('/secure/change', xhr.isXhr, secure.auth, secure.change);
 
-host.setRoute('/profile/get', secure.auth, profile.get);
+host.setRoute('/profile/get', xhr.isXhr, secure.auth, profile.get);
+host.setRoute('/profile/update', xhr.isXhr, secure.auth, profile.update);
+
+host.setRoute('/category/list', xhr.isXhr, secure.auth, category.list);
+host.setRoute('/category/insert', xhr.isXhr, secure.auth, category.insert);
+host.setRoute('/category/update', xhr.isXhr, secure.auth, category.update);
+host.setRoute('/category/move', xhr.isXhr, secure.auth, category.move);
+host.setRoute('/category/remove', xhr.isXhr, secure.auth, category.remove);

@@ -1,956 +1,280 @@
 {
-	"message": "shu is not defined",
+	"message": "Cannot find module './controller/category'",
 	"stack": [
 		{
-			"time": "Sun, 14 Apr 2013 07:23:26 GMT",
-			"file": "/home/ismax/model.store/hosts/base/index.js",
-			"line": 18,
-			"column": 12,
-			"func": null
+			"time": "Fri, 19 Apr 2013 06:25:44 GMT",
+			"file": "module.js",
+			"line": 338,
+			"column": 15,
+			"func": "Module._resolveFilename"
 		},
 		{
-			"time": "Sun, 14 Apr 2013 07:23:26 GMT",
+			"time": "Fri, 19 Apr 2013 06:25:44 GMT",
 			"file": "module.js",
-			"line": 449,
-			"column": 26,
-			"func": "Module._compile"
-		},
-		{
-			"time": "Sun, 14 Apr 2013 07:23:26 GMT",
-			"file": "module.js",
-			"line": 467,
-			"column": 10,
-			"func": "Module._extensions..js"
-		},
-		{
-			"time": "Sun, 14 Apr 2013 07:23:26 GMT",
-			"file": "module.js",
-			"line": 356,
-			"column": 32,
-			"func": "Module.load"
-		},
-		{
-			"time": "Sun, 14 Apr 2013 07:23:26 GMT",
-			"file": "module.js",
-			"line": 312,
-			"column": 12,
+			"line": 280,
+			"column": 25,
 			"func": "Module._load"
-		}
-	]
-}
-{
-	"message": "Object #<Object> has no method 'setHost'",
-	"stack": [
-		{
-			"time": "Sun, 14 Apr 2013 07:42:01 GMT",
-			"file": "/home/ismax/model.store/hosts/base/router.js",
-			"line": 104,
-			"column": 7,
-			"func": null
 		},
 		{
-			"time": "Sun, 14 Apr 2013 07:42:01 GMT",
+			"time": "Fri, 19 Apr 2013 06:25:44 GMT",
 			"file": "module.js",
-			"line": 449,
-			"column": 26,
-			"func": "Module._compile"
+			"line": 362,
+			"column": 17,
+			"func": "Module.require"
 		},
 		{
-			"time": "Sun, 14 Apr 2013 07:42:01 GMT",
+			"time": "Fri, 19 Apr 2013 06:25:44 GMT",
 			"file": "module.js",
-			"line": 467,
-			"column": 10,
-			"func": "Module._extensions..js"
+			"line": 378,
+			"column": 17,
+			"func": "require"
 		},
 		{
-			"time": "Sun, 14 Apr 2013 07:42:01 GMT",
-			"file": "module.js",
-			"line": 356,
-			"column": 32,
-			"func": "Module.load"
-		},
-		{
-			"time": "Sun, 14 Apr 2013 07:42:01 GMT",
-			"file": "module.js",
-			"line": 312,
-			"column": 12,
-			"func": "Module._load"
-		}
-	]
-}
-{
-	"message": "route is not defined",
-	"stack": [
-		{
-			"time": "Sun, 14 Apr 2013 14:26:13 GMT",
-			"file": "/home/ismax/model.store/hosts/base/index.js",
+			"time": "Fri, 19 Apr 2013 06:25:44 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/index.js",
 			"line": 21,
-			"column": 38,
-			"func": null
-		},
-		{
-			"time": "Sun, 14 Apr 2013 14:26:13 GMT",
-			"file": "module.js",
-			"line": 449,
-			"column": 26,
-			"func": "Module._compile"
-		},
-		{
-			"time": "Sun, 14 Apr 2013 14:26:13 GMT",
-			"file": "module.js",
-			"line": 467,
-			"column": 10,
-			"func": "Module._extensions..js"
-		},
-		{
-			"time": "Sun, 14 Apr 2013 14:26:13 GMT",
-			"file": "module.js",
-			"line": 356,
-			"column": 32,
-			"func": "Module.load"
-		},
-		{
-			"time": "Sun, 14 Apr 2013 14:26:13 GMT",
-			"file": "module.js",
-			"line": 312,
-			"column": 12,
-			"func": "Module._load"
-		}
-	]
-}
-{
-	"message": "Argumet id not a function",
-	"stack": [
-		{
-			"time": "Sun, 14 Apr 2013 14:33:17 GMT",
-			"file": "/home/ismax/model.store/hosts/base/router.js",
-			"line": 132,
-			"column": 15,
-			"func": "func.setRoute"
-		},
-		{
-			"time": "Sun, 14 Apr 2013 14:33:17 GMT",
-			"file": "/home/ismax/model.store/hosts/base/index.js",
-			"line": 24,
-			"column": 6,
-			"func": null
-		},
-		{
-			"time": "Sun, 14 Apr 2013 14:33:17 GMT",
-			"file": "module.js",
-			"line": 449,
-			"column": 26,
-			"func": "Module._compile"
-		},
-		{
-			"time": "Sun, 14 Apr 2013 14:33:17 GMT",
-			"file": "module.js",
-			"line": 467,
-			"column": 10,
-			"func": "Module._extensions..js"
-		},
-		{
-			"time": "Sun, 14 Apr 2013 14:33:17 GMT",
-			"file": "module.js",
-			"line": 356,
-			"column": 32,
-			"func": "Module.load"
-		}
-	]
-}
-{
-	"message": "route is not defined",
-	"stack": [
-		{
-			"time": "Sun, 14 Apr 2013 16:39:29 GMT",
-			"file": "/home/ismax/model.store/server/hosts.js",
-			"line": 68,
 			"column": 17,
 			"func": null
-		},
-		{
-			"time": "Sun, 14 Apr 2013 16:39:29 GMT",
-			"file": "module.js",
-			"line": 449,
-			"column": 26,
-			"func": "Module._compile"
-		},
-		{
-			"time": "Sun, 14 Apr 2013 16:39:29 GMT",
-			"file": "module.js",
-			"line": 467,
-			"column": 10,
-			"func": "Module._extensions..js"
-		},
-		{
-			"time": "Sun, 14 Apr 2013 16:39:29 GMT",
-			"file": "module.js",
-			"line": 356,
-			"column": 32,
-			"func": "Module.load"
-		},
-		{
-			"time": "Sun, 14 Apr 2013 16:39:29 GMT",
-			"file": "module.js",
-			"line": 312,
-			"column": 12,
-			"func": "Module._load"
 		}
 	]
 }
 {
-	"message": "Argumet id not a function",
+	"message": "Object #<Object> has no method 'insertCategory'",
 	"stack": [
 		{
-			"time": "Sun, 14 Apr 2013 16:48:55 GMT",
-			"file": "/home/ismax/model.store/server/router.js",
-			"line": 47,
-			"column": 15,
-			"func": "router.setRoute"
-		},
-		{
-			"time": "Sun, 14 Apr 2013 16:48:55 GMT",
-			"file": "/home/ismax/model.store/hosts/base/index.js",
-			"line": 19,
-			"column": 8,
-			"func": null
-		},
-		{
-			"time": "Sun, 14 Apr 2013 16:48:55 GMT",
-			"file": "module.js",
-			"line": 449,
-			"column": 26,
-			"func": "Module._compile"
-		},
-		{
-			"time": "Sun, 14 Apr 2013 16:48:55 GMT",
-			"file": "module.js",
-			"line": 467,
-			"column": 10,
-			"func": "Module._extensions..js"
-		},
-		{
-			"time": "Sun, 14 Apr 2013 16:48:55 GMT",
-			"file": "module.js",
-			"line": 356,
-			"column": 32,
-			"func": "Module.load"
-		}
-	]
-}
-{
-	"message": "first argument must be a string or Buffer",
-	"stack": [
-		{
-			"time": "Sun, 14 Apr 2013 16:50:24 GMT",
-			"file": "http.js",
-			"line": 715,
+			"time": "Fri, 19 Apr 2013 06:29:56 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/controller/category.js",
+			"line": 26,
 			"column": 11,
-			"func": "OutgoingMessage.write"
+			"func": "exports.insert"
 		},
 		{
-			"time": "Sun, 14 Apr 2013 16:50:24 GMT",
-			"file": "/home/ismax/model.store/server/hosts.js",
-			"line": 61,
-			"column": 11,
-			"func": "route"
-		},
-		{
-			"time": "Sun, 14 Apr 2013 16:50:24 GMT",
-			"file": "domain.js",
-			"line": 201,
-			"column": 18,
-			"func": "Domain.bind.b"
-		},
-		{
-			"time": "Sun, 14 Apr 2013 16:50:24 GMT",
-			"file": "/home/ismax/model.store/node_modules/jade/lib/jade.js",
-			"line": 245,
-			"column": 5,
-			"func": "exports.renderFile"
-		},
-		{
-			"time": "Sun, 14 Apr 2013 16:50:24 GMT",
-			"file": "/home/ismax/model.store/server/hosts.js",
-			"line": 59,
-			"column": 10,
-			"func": "route"
-		}
-	]
-}
-{
-	"message": "first argument must be a string or Buffer",
-	"stack": [
-		{
-			"time": "Sun, 14 Apr 2013 16:52:09 GMT",
-			"file": "http.js",
-			"line": 715,
-			"column": 11,
-			"func": "OutgoingMessage.write"
-		},
-		{
-			"time": "Sun, 14 Apr 2013 16:52:09 GMT",
-			"file": "/home/ismax/model.store/server/hosts.js",
-			"line": 61,
-			"column": 11,
-			"func": "route"
-		},
-		{
-			"time": "Sun, 14 Apr 2013 16:52:09 GMT",
-			"file": "domain.js",
-			"line": 201,
-			"column": 18,
-			"func": "Domain.bind.b"
-		},
-		{
-			"time": "Sun, 14 Apr 2013 16:52:09 GMT",
-			"file": "/home/ismax/model.store/node_modules/jade/lib/jade.js",
-			"line": 245,
-			"column": 5,
-			"func": "exports.renderFile"
-		},
-		{
-			"time": "Sun, 14 Apr 2013 16:52:09 GMT",
-			"file": "/home/ismax/model.store/server/hosts.js",
-			"line": 59,
-			"column": 10,
-			"func": "route"
-		}
-	]
-}
-{
-	"message": "first argument must be a string or Buffer",
-	"stack": [
-		{
-			"time": "Sun, 14 Apr 2013 16:54:13 GMT",
-			"file": "http.js",
-			"line": 715,
-			"column": 11,
-			"func": "OutgoingMessage.write"
-		},
-		{
-			"time": "Sun, 14 Apr 2013 16:54:13 GMT",
-			"file": "/home/ismax/model.store/server/hosts.js",
-			"line": 61,
-			"column": 11,
-			"func": "route"
-		},
-		{
-			"time": "Sun, 14 Apr 2013 16:54:13 GMT",
-			"file": "domain.js",
-			"line": 201,
-			"column": 18,
-			"func": "Domain.bind.b"
-		},
-		{
-			"time": "Sun, 14 Apr 2013 16:54:13 GMT",
-			"file": "/home/ismax/model.store/node_modules/jade/lib/jade.js",
-			"line": 245,
-			"column": 5,
-			"func": "exports.renderFile"
-		},
-		{
-			"time": "Sun, 14 Apr 2013 16:54:13 GMT",
-			"file": "/home/ismax/model.store/server/hosts.js",
-			"line": 59,
-			"column": 10,
-			"func": "route"
-		}
-	]
-}
-{
-	"message": "Object function (httpErr, req, res){\r\n    var me    = arguments.callee;\r\n    var _url  = url.parse(req.url);\r\n  \r\n    /**\r\n     * Функция контроля последовательности\r\n     * выполнения функций связанных с маршрутом\r\n     */\r\n    function next(caller){\r\n  \r\n      // Определения наличия марщрута в списке\r\n      if(util.isArray(handle[_url.pathname])){\r\n        var funcs = handle[_url.pathname];\r\n        var index = funcs.indexOf(caller);\r\n  \r\n        if((index < 0) && (me == caller)){\r\n          index = 0;\r\n        }\r\n  \r\n        if(typeof funcs[index] === 'function'){\r\n          funcs[index](httpErr, req, res, function(){\r\n            next(funcs[index+1]);\r\n          });\r\n        }\r\n      }else{\r\n        // Выдача статики в случае \r\n        // отсудствии подходящего маршрута\r\n        file.serve(req, res, httpErr.bind(function(err, result){\r\n          if (err && (err.status === 404)){\r\n    \r\n            // Рендеринг шаблона 404 ошибки\r\n            // при отсудствии подходящего файла\r\n            jade.renderFile(__dirname+'/view/404.jade',{}, httpErr.bind(function (err, html){\r\n              res.writeHead(404, {'Content-Type': 'text/html; charset=utf8'});\r\n              res.write(html);\r\n              res.end();\r\n            }));\r\n          }\r\n        })); \r\n      }\r\n    }\r\n    \r\n    next(arguments.callee);\r\n  } has no method 'setRoute'",
-	"stack": [
-		{
-			"time": "Sun, 14 Apr 2013 16:57:51 GMT",
-			"file": "/home/ismax/model.store/hosts/base/index.js",
-			"line": 20,
-			"column": 8,
-			"func": null
-		},
-		{
-			"time": "Sun, 14 Apr 2013 16:57:51 GMT",
-			"file": "module.js",
-			"line": 449,
-			"column": 26,
-			"func": "Module._compile"
-		},
-		{
-			"time": "Sun, 14 Apr 2013 16:57:51 GMT",
-			"file": "module.js",
-			"line": 467,
-			"column": 10,
-			"func": "Module._extensions..js"
-		},
-		{
-			"time": "Sun, 14 Apr 2013 16:57:51 GMT",
-			"file": "module.js",
-			"line": 356,
-			"column": 32,
-			"func": "Module.load"
-		},
-		{
-			"time": "Sun, 14 Apr 2013 16:57:51 GMT",
-			"file": "module.js",
-			"line": 312,
-			"column": 12,
-			"func": "Module._load"
-		}
-	]
-}
-{
-	"message": "first argument must be a string or Buffer",
-	"stack": [
-		{
-			"time": "Sun, 14 Apr 2013 16:58:38 GMT",
-			"file": "http.js",
-			"line": 715,
-			"column": 11,
-			"func": "OutgoingMessage.write"
-		},
-		{
-			"time": "Sun, 14 Apr 2013 16:58:38 GMT",
+			"time": "Fri, 19 Apr 2013 06:29:56 GMT",
 			"file": "/home/ismax/model.store/server/router.js",
-			"line": 94,
-			"column": 19,
-			"func": "router.route"
+			"line": 106,
+			"column": 23,
+			"func": "next"
 		},
 		{
-			"time": "Sun, 14 Apr 2013 16:58:38 GMT",
-			"file": "domain.js",
-			"line": 201,
-			"column": 18,
-			"func": "Domain.bind.b"
-		},
-		{
-			"time": "Sun, 14 Apr 2013 16:58:38 GMT",
-			"file": "/home/ismax/model.store/node_modules/jade/lib/jade.js",
-			"line": 245,
-			"column": 5,
-			"func": "exports.renderFile"
-		},
-		{
-			"time": "Sun, 14 Apr 2013 16:58:38 GMT",
+			"time": "Fri, 19 Apr 2013 06:29:56 GMT",
 			"file": "/home/ismax/model.store/server/router.js",
-			"line": 92,
-			"column": 18,
-			"func": "router.route"
-		}
-	]
-}
-{
-	"message": "first argument must be a string or Buffer",
-	"stack": [
-		{
-			"time": "Sun, 14 Apr 2013 18:27:09 GMT",
-			"file": "http.js",
-			"line": 715,
-			"column": 11,
-			"func": "OutgoingMessage.write"
-		},
-		{
-			"time": "Sun, 14 Apr 2013 18:27:09 GMT",
-			"file": "/home/ismax/model.store/server/router.js",
-			"line": 94,
-			"column": 19,
-			"func": "router.route"
-		},
-		{
-			"time": "Sun, 14 Apr 2013 18:27:09 GMT",
-			"file": "domain.js",
-			"line": 201,
-			"column": 18,
-			"func": "Domain.bind.b"
-		},
-		{
-			"time": "Sun, 14 Apr 2013 18:27:09 GMT",
-			"file": "/home/ismax/model.store/node_modules/jade/lib/jade.js",
-			"line": 245,
-			"column": 5,
-			"func": "exports.renderFile"
-		},
-		{
-			"time": "Sun, 14 Apr 2013 18:27:09 GMT",
-			"file": "/home/ismax/model.store/server/router.js",
-			"line": 92,
-			"column": 18,
-			"func": "router.route"
-		}
-	]
-}
-{
-	"message": "first argument must be a string or Buffer",
-	"stack": [
-		{
-			"time": "Sun, 14 Apr 2013 18:31:28 GMT",
-			"file": "http.js",
-			"line": 715,
-			"column": 11,
-			"func": "OutgoingMessage.write"
-		},
-		{
-			"time": "Sun, 14 Apr 2013 18:31:28 GMT",
-			"file": "/home/ismax/model.store/server/router.js",
-			"line": 94,
-			"column": 19,
-			"func": "router.route"
-		},
-		{
-			"time": "Sun, 14 Apr 2013 18:31:28 GMT",
-			"file": "domain.js",
-			"line": 201,
-			"column": 18,
-			"func": "Domain.bind.b"
-		},
-		{
-			"time": "Sun, 14 Apr 2013 18:31:28 GMT",
-			"file": "/home/ismax/model.store/node_modules/jade/lib/jade.js",
-			"line": 245,
-			"column": 5,
-			"func": "exports.renderFile"
-		},
-		{
-			"time": "Sun, 14 Apr 2013 18:31:28 GMT",
-			"file": "/home/ismax/model.store/server/router.js",
-			"line": 92,
-			"column": 18,
-			"func": "router.route"
-		}
-	]
-}
-{
-	"message": "Cannot find module '../router'",
-	"stack": [
-		{
-			"time": "Sun, 14 Apr 2013 19:42:19 GMT",
-			"file": "module.js",
-			"line": 338,
-			"column": 15,
-			"func": "Module._resolveFilename"
-		},
-		{
-			"time": "Sun, 14 Apr 2013 19:42:19 GMT",
-			"file": "module.js",
-			"line": 280,
-			"column": 25,
-			"func": "Module._load"
-		},
-		{
-			"time": "Sun, 14 Apr 2013 19:42:19 GMT",
-			"file": "module.js",
-			"line": 362,
-			"column": 17,
-			"func": "Module.require"
-		},
-		{
-			"time": "Sun, 14 Apr 2013 19:42:19 GMT",
-			"file": "module.js",
-			"line": 378,
-			"column": 17,
-			"func": "require"
-		},
-		{
-			"time": "Sun, 14 Apr 2013 19:42:19 GMT",
-			"file": "/home/ismax/model.store/hosts/base/controller/index.js",
-			"line": 16,
-			"column": 15,
-			"func": null
-		}
-	]
-}
-{
-	"message": "Cannot find module '../router'",
-	"stack": [
-		{
-			"time": "Sun, 14 Apr 2013 19:44:38 GMT",
-			"file": "module.js",
-			"line": 338,
-			"column": 15,
-			"func": "Module._resolveFilename"
-		},
-		{
-			"time": "Sun, 14 Apr 2013 19:44:38 GMT",
-			"file": "module.js",
-			"line": 280,
-			"column": 25,
-			"func": "Module._load"
-		},
-		{
-			"time": "Sun, 14 Apr 2013 19:44:38 GMT",
-			"file": "module.js",
-			"line": 362,
-			"column": 17,
-			"func": "Module.require"
-		},
-		{
-			"time": "Sun, 14 Apr 2013 19:44:38 GMT",
-			"file": "module.js",
-			"line": 378,
-			"column": 17,
-			"func": "require"
-		},
-		{
-			"time": "Sun, 14 Apr 2013 19:44:38 GMT",
-			"file": "/home/ismax/model.store/hosts/base/controller/index.js",
-			"line": 16,
-			"column": 15,
-			"func": null
-		}
-	]
-}
-{
-	"message": "Unexpected token {",
-	"stack": [
-		{
-			"time": "Mon, 15 Apr 2013 04:55:37 GMT",
-			"file": "module.js",
-			"line": 437,
-			"column": 25,
-			"func": "Module._compile"
-		},
-		{
-			"time": "Mon, 15 Apr 2013 04:55:37 GMT",
-			"file": "module.js",
-			"line": 467,
-			"column": 10,
-			"func": "Module._extensions..js"
-		},
-		{
-			"time": "Mon, 15 Apr 2013 04:55:37 GMT",
-			"file": "module.js",
-			"line": 356,
-			"column": 32,
-			"func": "Module.load"
-		},
-		{
-			"time": "Mon, 15 Apr 2013 04:55:37 GMT",
-			"file": "module.js",
-			"line": 312,
-			"column": 12,
-			"func": "Module._load"
-		},
-		{
-			"time": "Mon, 15 Apr 2013 04:55:37 GMT",
-			"file": "module.js",
-			"line": 362,
-			"column": 17,
-			"func": "Module.require"
-		}
-	]
-}
-{
-	"message": "Unexpected token {",
-	"stack": [
-		{
-			"time": "Mon, 15 Apr 2013 04:56:46 GMT",
-			"file": "module.js",
-			"line": 437,
-			"column": 25,
-			"func": "Module._compile"
-		},
-		{
-			"time": "Mon, 15 Apr 2013 04:56:46 GMT",
-			"file": "module.js",
-			"line": 467,
-			"column": 10,
-			"func": "Module._extensions..js"
-		},
-		{
-			"time": "Mon, 15 Apr 2013 04:56:46 GMT",
-			"file": "module.js",
-			"line": 356,
-			"column": 32,
-			"func": "Module.load"
-		},
-		{
-			"time": "Mon, 15 Apr 2013 04:56:46 GMT",
-			"file": "module.js",
-			"line": 312,
-			"column": 12,
-			"func": "Module._load"
-		},
-		{
-			"time": "Mon, 15 Apr 2013 04:56:46 GMT",
-			"file": "module.js",
-			"line": 362,
-			"column": 17,
-			"func": "Module.require"
-		}
-	]
-}
-{
-	"message": "fs is not defined",
-	"stack": [
-		{
-			"time": "Mon, 15 Apr 2013 04:57:32 GMT",
-			"file": "/home/ismax/model.store/server/router.js",
-			"line": 29,
-			"column": 5,
-			"func": "router.setStaticPath"
-		},
-		{
-			"time": "Mon, 15 Apr 2013 04:57:32 GMT",
-			"file": "/home/ismax/model.store/hosts/base/index.js",
-			"line": 22,
-			"column": 8,
-			"func": null
-		},
-		{
-			"time": "Mon, 15 Apr 2013 04:57:32 GMT",
-			"file": "module.js",
-			"line": 449,
-			"column": 26,
-			"func": "Module._compile"
-		},
-		{
-			"time": "Mon, 15 Apr 2013 04:57:32 GMT",
-			"file": "module.js",
-			"line": 467,
-			"column": 10,
-			"func": "Module._extensions..js"
-		},
-		{
-			"time": "Mon, 15 Apr 2013 04:57:32 GMT",
-			"file": "module.js",
-			"line": 356,
-			"column": 32,
-			"func": "Module.load"
-		}
-	]
-}
-{
-	"message": "Path \"?\" no exist",
-	"stack": [
-		{
-			"time": "Mon, 15 Apr 2013 05:03:46 GMT",
-			"file": "/home/ismax/model.store/server/router.js",
-			"line": 34,
-			"column": 15,
-			"func": "router.setStaticPath"
-		},
-		{
-			"time": "Mon, 15 Apr 2013 05:03:46 GMT",
-			"file": "fs.js",
-			"line": 91,
-			"column": 19,
-			"func": "fs.exists"
-		}
-	]
-}
-{
-	"message": "Path \"/home/ismax/model.store/hosts/base/../../../../static\" no exist",
-	"stack": [
-		{
-			"time": "Mon, 15 Apr 2013 05:04:34 GMT",
-			"file": "/home/ismax/model.store/server/router.js",
-			"line": 34,
-			"column": 15,
-			"func": "router.setStaticPath"
-		},
-		{
-			"time": "Mon, 15 Apr 2013 05:04:34 GMT",
-			"file": "fs.js",
-			"line": 91,
-			"column": 19,
-			"func": "fs.exists"
-		}
-	]
-}
-{
-	"message": "Path \"/home/ismax/model.store/hosts/base/../../../../static\" no exist",
-	"stack": [
-		{
-			"time": "Mon, 15 Apr 2013 05:05:28 GMT",
-			"file": "/home/ismax/model.store/server/router.js",
-			"line": 34,
-			"column": 15,
-			"func": "router.setStaticPath"
-		},
-		{
-			"time": "Mon, 15 Apr 2013 05:05:28 GMT",
-			"file": "fs.js",
-			"line": 91,
-			"column": 19,
-			"func": "fs.exists"
-		}
-	]
-}
-{
-	"message": "Path \"/home/ismax/model.store/hosts/base./view/\" no exist",
-	"stack": [
-		{
-			"time": "Mon, 15 Apr 2013 05:16:47 GMT",
-			"file": "/home/ismax/model.store/server/router.js",
-			"line": 48,
-			"column": 15,
-			"func": "router.setViewPath"
-		},
-		{
-			"time": "Mon, 15 Apr 2013 05:16:47 GMT",
-			"file": "fs.js",
-			"line": 91,
-			"column": 19,
-			"func": "fs.exists"
-		}
-	]
-}
-{
-	"message": "__path is not defined",
-	"stack": [
-		{
-			"time": "Mon, 15 Apr 2013 05:19:08 GMT",
-			"file": "/home/ismax/model.store/hosts/base/index.js",
-			"line": 24,
+			"line": 107,
 			"column": 13,
-			"func": null
+			"func": "router.route.file.cache"
 		},
 		{
-			"time": "Mon, 15 Apr 2013 05:19:08 GMT",
+			"time": "Fri, 19 Apr 2013 06:29:56 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/controller/secure.js",
+			"line": 145,
+			"column": 7,
+			"func": "exports.auth"
+		},
+		{
+			"time": "Fri, 19 Apr 2013 06:29:56 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/model/secure.js",
+			"line": 32,
+			"column": 9,
+			"func": "exports.getUserBySession"
+		}
+	]
+}
+{
+	"message": "Argument passed in must be a single String of 12 bytes or a string of 24 hex characters",
+	"stack": [
+		{
+			"time": "Fri, 19 Apr 2013 08:17:53 GMT",
+			"file": "/home/ismax/model.store/node_modules/mongodb/node_modules/bson/lib/bson/objectid.js",
+			"line": 33,
+			"column": 11,
+			"func": "ObjectID"
+		},
+		{
+			"time": "Fri, 19 Apr 2013 08:17:53 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/model/category.js",
+			"line": 19,
+			"column": 58,
+			"func": "exports.getCategoryList"
+		},
+		{
+			"time": "Fri, 19 Apr 2013 08:17:53 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/controller/category.js",
+			"line": 26,
+			"column": 9,
+			"func": "exports.list"
+		},
+		{
+			"time": "Fri, 19 Apr 2013 08:17:53 GMT",
+			"file": "/home/ismax/model.store/server/router.js",
+			"line": 106,
+			"column": 23,
+			"func": "next"
+		},
+		{
+			"time": "Fri, 19 Apr 2013 08:17:53 GMT",
+			"file": "/home/ismax/model.store/server/router.js",
+			"line": 107,
+			"column": 13,
+			"func": "router.route.file.cache"
+		}
+	]
+}
+{
+	"message": "Argument passed in must be a single String of 12 bytes or a string of 24 hex characters",
+	"stack": [
+		{
+			"time": "Fri, 19 Apr 2013 08:18:50 GMT",
+			"file": "/home/ismax/model.store/node_modules/mongodb/node_modules/bson/lib/bson/objectid.js",
+			"line": 33,
+			"column": 11,
+			"func": "ObjectID"
+		},
+		{
+			"time": "Fri, 19 Apr 2013 08:18:50 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/model/category.js",
+			"line": 20,
+			"column": 58,
+			"func": "exports.getCategoryList"
+		},
+		{
+			"time": "Fri, 19 Apr 2013 08:18:50 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/controller/category.js",
+			"line": 26,
+			"column": 9,
+			"func": "exports.list"
+		},
+		{
+			"time": "Fri, 19 Apr 2013 08:18:50 GMT",
+			"file": "/home/ismax/model.store/server/router.js",
+			"line": 106,
+			"column": 23,
+			"func": "next"
+		},
+		{
+			"time": "Fri, 19 Apr 2013 08:18:50 GMT",
+			"file": "/home/ismax/model.store/server/router.js",
+			"line": 107,
+			"column": 13,
+			"func": "router.route.file.cache"
+		}
+	]
+}
+{
+	"message": "category is not defined",
+	"stack": [
+		{
+			"time": "Fri, 19 Apr 2013 09:23:31 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/model/category.js",
+			"line": 66,
+			"column": 10,
+			"func": "exports.insertCategory"
+		},
+		{
+			"time": "Fri, 19 Apr 2013 09:23:31 GMT",
+			"file": "domain.js",
+			"line": 201,
+			"column": 18,
+			"func": "Domain.bind.b"
+		},
+		{
+			"time": "Fri, 19 Apr 2013 09:23:31 GMT",
+			"file": "/home/ismax/model.store/node_modules/mongodb/lib/mongodb/collection.js",
+			"line": 1010,
+			"column": 5,
+			"func": "Collection.findOne"
+		},
+		{
+			"time": "Fri, 19 Apr 2013 09:23:31 GMT",
+			"file": "/home/ismax/model.store/node_modules/mongodb/lib/mongodb/cursor.js",
+			"line": 653,
+			"column": 5,
+			"func": "Cursor.nextObject"
+		},
+		{
+			"time": "Fri, 19 Apr 2013 09:23:31 GMT",
+			"file": "/home/ismax/model.store/node_modules/mongodb/lib/mongodb/cursor.js",
+			"line": 635,
+			"column": 14,
+			"func": "Cursor.nextObject.commandHandler"
+		}
+	]
+}
+{
+	"message": "Unexpected token {",
+	"stack": [
+		{
+			"time": "Fri, 19 Apr 2013 17:37:18 GMT",
 			"file": "module.js",
-			"line": 449,
-			"column": 26,
+			"line": 437,
+			"column": 25,
 			"func": "Module._compile"
 		},
 		{
-			"time": "Mon, 15 Apr 2013 05:19:08 GMT",
+			"time": "Fri, 19 Apr 2013 17:37:18 GMT",
 			"file": "module.js",
 			"line": 467,
 			"column": 10,
 			"func": "Module._extensions..js"
 		},
 		{
-			"time": "Mon, 15 Apr 2013 05:19:08 GMT",
+			"time": "Fri, 19 Apr 2013 17:37:18 GMT",
 			"file": "module.js",
 			"line": 356,
 			"column": 32,
 			"func": "Module.load"
 		},
 		{
-			"time": "Mon, 15 Apr 2013 05:19:08 GMT",
+			"time": "Fri, 19 Apr 2013 17:37:18 GMT",
 			"file": "module.js",
 			"line": 312,
 			"column": 12,
 			"func": "Module._load"
-		}
-	]
-}
-{
-	"message": "Cannot find module './lib/cookie'",
-	"stack": [
-		{
-			"time": "Mon, 15 Apr 2013 05:47:05 GMT",
-			"file": "module.js",
-			"line": 338,
-			"column": 15,
-			"func": "Module._resolveFilename"
 		},
 		{
-			"time": "Mon, 15 Apr 2013 05:47:05 GMT",
-			"file": "module.js",
-			"line": 280,
-			"column": 25,
-			"func": "Module._load"
-		},
-		{
-			"time": "Mon, 15 Apr 2013 05:47:05 GMT",
+			"time": "Fri, 19 Apr 2013 17:37:18 GMT",
 			"file": "module.js",
 			"line": 362,
 			"column": 17,
 			"func": "Module.require"
-		},
-		{
-			"time": "Mon, 15 Apr 2013 05:47:05 GMT",
-			"file": "module.js",
-			"line": 378,
-			"column": 17,
-			"func": "require"
-		},
-		{
-			"time": "Mon, 15 Apr 2013 05:47:05 GMT",
-			"file": "/home/ismax/model.store/server/socket.js",
-			"line": 17,
-			"column": 21,
-			"func": null
 		}
 	]
 }
 {
-	"message": "Cannot find module '/../lib/cookie'",
+	"message": "Cannot use a writeConcern without a provided callback",
 	"stack": [
 		{
-			"time": "Mon, 15 Apr 2013 05:47:40 GMT",
-			"file": "module.js",
-			"line": 338,
-			"column": 15,
-			"func": "Module._resolveFilename"
+			"time": "Fri, 19 Apr 2013 18:47:27 GMT",
+			"file": "/home/ismax/model.store/node_modules/mongodb/lib/mongodb/collection.js",
+			"line": 200,
+			"column": 11,
+			"func": "remove"
 		},
 		{
-			"time": "Mon, 15 Apr 2013 05:47:40 GMT",
-			"file": "module.js",
-			"line": 280,
-			"column": 25,
-			"func": "Module._load"
+			"time": "Fri, 19 Apr 2013 18:47:27 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/model/category.js",
+			"line": 105,
+			"column": 16,
+			"func": "exports.removeCategory"
 		},
 		{
-			"time": "Mon, 15 Apr 2013 05:47:40 GMT",
-			"file": "module.js",
-			"line": 362,
-			"column": 17,
-			"func": "Module.require"
+			"time": "Fri, 19 Apr 2013 18:47:27 GMT",
+			"file": "domain.js",
+			"line": 201,
+			"column": 18,
+			"func": "Domain.bind.b"
 		},
 		{
-			"time": "Mon, 15 Apr 2013 05:47:40 GMT",
-			"file": "module.js",
-			"line": 378,
-			"column": 17,
-			"func": "require"
+			"time": "Fri, 19 Apr 2013 18:47:27 GMT",
+			"file": "/home/ismax/model.store/node_modules/mongodb/lib/mongodb/db.js",
+			"line": 484,
+			"column": 44,
+			"func": "Db.collection"
 		},
 		{
-			"time": "Mon, 15 Apr 2013 05:47:40 GMT",
-			"file": "/home/ismax/model.store/server/socket.js",
-			"line": 17,
-			"column": 21,
-			"func": null
-		}
-	]
-}
-{
-	"message": "Cannot find module '../../../socket'",
-	"stack": [
-		{
-			"time": "Mon, 15 Apr 2013 05:48:01 GMT",
-			"file": "module.js",
-			"line": 338,
-			"column": 15,
-			"func": "Module._resolveFilename"
-		},
-		{
-			"time": "Mon, 15 Apr 2013 05:48:01 GMT",
-			"file": "module.js",
-			"line": 280,
-			"column": 25,
-			"func": "Module._load"
-		},
-		{
-			"time": "Mon, 15 Apr 2013 05:48:01 GMT",
-			"file": "module.js",
-			"line": 362,
-			"column": 17,
-			"func": "Module.require"
-		},
-		{
-			"time": "Mon, 15 Apr 2013 05:48:01 GMT",
-			"file": "module.js",
-			"line": 378,
-			"column": 17,
-			"func": "require"
-		},
-		{
-			"time": "Mon, 15 Apr 2013 05:48:01 GMT",
-			"file": "/home/ismax/model.store/hosts/base/controller/index.js",
-			"line": 15,
-			"column": 15,
-			"func": null
+			"time": "Fri, 19 Apr 2013 18:47:27 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/model/category.js",
+			"line": 99,
+			"column": 12,
+			"func": "exports.removeCategory"
 		}
 	]
 }
@@ -958,79 +282,1599 @@
 	"message": "My error",
 	"stack": [
 		{
-			"time": "Mon, 15 Apr 2013 06:30:46 GMT",
-			"file": "/home/ismax/model.store/hosts/base/controller/index.js",
-			"line": 22,
-			"column": 9,
-			"func": "exports.index"
+			"time": "Sat, 20 Apr 2013 10:04:57 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/controller/category.js",
+			"line": 43,
+			"column": 7,
+			"func": "exports.insert"
 		},
 		{
-			"time": "Mon, 15 Apr 2013 06:30:46 GMT",
+			"time": "Sat, 20 Apr 2013 10:04:57 GMT",
 			"file": "/home/ismax/model.store/server/router.js",
 			"line": 106,
 			"column": 23,
 			"func": "next"
 		},
 		{
-			"time": "Mon, 15 Apr 2013 06:30:46 GMT",
+			"time": "Sat, 20 Apr 2013 10:04:57 GMT",
 			"file": "/home/ismax/model.store/server/router.js",
-			"line": 137,
-			"column": 5,
-			"func": "router.route"
-		},
-		{
-			"time": "Mon, 15 Apr 2013 06:30:46 GMT",
-			"file": "/home/ismax/model.store/server/hosts.js",
-			"line": 55,
-			"column": 27,
-			"func": "route"
-		},
-		{
-			"time": "Mon, 15 Apr 2013 06:30:46 GMT",
-			"file": "/home/ismax/model.store/server/index.js",
-			"line": 42,
+			"line": 107,
 			"column": 13,
-			"func": null
+			"func": "router.route.file.cache"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 10:04:57 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/controller/secure.js",
+			"line": 145,
+			"column": 7,
+			"func": "exports.auth"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 10:04:57 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/model/secure.js",
+			"line": 32,
+			"column": 9,
+			"func": "exports.getUserBySession"
 		}
 	]
 }
 {
-	"message": "Cannot find module '../../lib/cookie'",
+	"message": "My error",
 	"stack": [
 		{
-			"time": "Mon, 15 Apr 2013 15:55:57 GMT",
-			"file": "module.js",
-			"line": 338,
-			"column": 15,
-			"func": "Module._resolveFilename"
+			"time": "Sat, 20 Apr 2013 10:05:50 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/controller/category.js",
+			"line": 43,
+			"column": 7,
+			"func": "exports.insert"
 		},
 		{
-			"time": "Mon, 15 Apr 2013 15:55:57 GMT",
-			"file": "module.js",
-			"line": 280,
-			"column": 25,
-			"func": "Module._load"
+			"time": "Sat, 20 Apr 2013 10:05:50 GMT",
+			"file": "/home/ismax/model.store/server/router.js",
+			"line": 106,
+			"column": 23,
+			"func": "next"
 		},
 		{
-			"time": "Mon, 15 Apr 2013 15:55:57 GMT",
-			"file": "module.js",
-			"line": 362,
-			"column": 17,
-			"func": "Module.require"
+			"time": "Sat, 20 Apr 2013 10:05:50 GMT",
+			"file": "/home/ismax/model.store/server/router.js",
+			"line": 107,
+			"column": 13,
+			"func": "router.route.file.cache"
 		},
 		{
-			"time": "Mon, 15 Apr 2013 15:55:57 GMT",
-			"file": "module.js",
-			"line": 378,
-			"column": 17,
-			"func": "require"
-		},
-		{
-			"time": "Mon, 15 Apr 2013 15:55:57 GMT",
+			"time": "Sat, 20 Apr 2013 10:05:50 GMT",
 			"file": "/home/ismax/model.store/hosts/panel/controller/secure.js",
-			"line": 16,
-			"column": 21,
+			"line": 145,
+			"column": 7,
+			"func": "exports.auth"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 10:05:50 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/model/secure.js",
+			"line": 32,
+			"column": 9,
+			"func": "exports.getUserBySession"
+		}
+	]
+}
+{
+	"message": "My error",
+	"stack": [
+		{
+			"time": "Sat, 20 Apr 2013 11:16:14 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/controller/category.js",
+			"line": 43,
+			"column": 7,
+			"func": "exports.insert"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 11:16:14 GMT",
+			"file": "/home/ismax/model.store/server/router.js",
+			"line": 106,
+			"column": 23,
+			"func": "next"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 11:16:14 GMT",
+			"file": "/home/ismax/model.store/server/router.js",
+			"line": 107,
+			"column": 13,
+			"func": "router.route.file.cache"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 11:16:14 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/controller/secure.js",
+			"line": 145,
+			"column": 7,
+			"func": "exports.auth"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 11:16:14 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/model/secure.js",
+			"line": 32,
+			"column": 9,
+			"func": "exports.getUserBySession"
+		}
+	]
+}
+{
+	"message": "My error",
+	"stack": [
+		{
+			"time": "Sat, 20 Apr 2013 11:19:46 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/controller/category.js",
+			"line": 43,
+			"column": 7,
+			"func": "exports.insert"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 11:19:46 GMT",
+			"file": "/home/ismax/model.store/server/router.js",
+			"line": 106,
+			"column": 23,
+			"func": "next"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 11:19:46 GMT",
+			"file": "/home/ismax/model.store/server/router.js",
+			"line": 107,
+			"column": 13,
+			"func": "router.route.file.cache"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 11:19:46 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/controller/secure.js",
+			"line": 145,
+			"column": 7,
+			"func": "exports.auth"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 11:19:46 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/model/secure.js",
+			"line": 32,
+			"column": 9,
+			"func": "exports.getUserBySession"
+		}
+	]
+}
+{
+	"message": "My error",
+	"stack": [
+		{
+			"time": "Sat, 20 Apr 2013 11:26:31 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/controller/category.js",
+			"line": 43,
+			"column": 7,
+			"func": "exports.insert"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 11:26:31 GMT",
+			"file": "/home/ismax/model.store/server/router.js",
+			"line": 106,
+			"column": 23,
+			"func": "next"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 11:26:31 GMT",
+			"file": "/home/ismax/model.store/server/router.js",
+			"line": 107,
+			"column": 13,
+			"func": "router.route.file.cache"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 11:26:31 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/controller/secure.js",
+			"line": 145,
+			"column": 7,
+			"func": "exports.auth"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 11:26:31 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/model/secure.js",
+			"line": 32,
+			"column": 9,
+			"func": "exports.getUserBySession"
+		}
+	]
+}
+{
+	"message": "My error",
+	"stack": [
+		{
+			"time": "Sat, 20 Apr 2013 11:26:35 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/controller/category.js",
+			"line": 43,
+			"column": 7,
+			"func": "exports.insert"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 11:26:35 GMT",
+			"file": "/home/ismax/model.store/server/router.js",
+			"line": 106,
+			"column": 23,
+			"func": "next"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 11:26:35 GMT",
+			"file": "/home/ismax/model.store/server/router.js",
+			"line": 107,
+			"column": 13,
+			"func": "router.route.file.cache"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 11:26:35 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/controller/secure.js",
+			"line": 145,
+			"column": 7,
+			"func": "exports.auth"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 11:26:35 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/model/secure.js",
+			"line": 32,
+			"column": 9,
+			"func": "exports.getUserBySession"
+		}
+	]
+}
+{
+	"message": "My error",
+	"stack": [
+		{
+			"time": "Sat, 20 Apr 2013 11:26:38 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/controller/category.js",
+			"line": 43,
+			"column": 7,
+			"func": "exports.insert"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 11:26:38 GMT",
+			"file": "/home/ismax/model.store/server/router.js",
+			"line": 106,
+			"column": 23,
+			"func": "next"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 11:26:38 GMT",
+			"file": "/home/ismax/model.store/server/router.js",
+			"line": 107,
+			"column": 13,
+			"func": "router.route.file.cache"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 11:26:38 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/controller/secure.js",
+			"line": 145,
+			"column": 7,
+			"func": "exports.auth"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 11:26:38 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/model/secure.js",
+			"line": 32,
+			"column": 9,
+			"func": "exports.getUserBySession"
+		}
+	]
+}
+{
+	"message": "My error",
+	"stack": [
+		{
+			"time": "Sat, 20 Apr 2013 11:26:42 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/controller/category.js",
+			"line": 43,
+			"column": 7,
+			"func": "exports.insert"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 11:26:42 GMT",
+			"file": "/home/ismax/model.store/server/router.js",
+			"line": 106,
+			"column": 23,
+			"func": "next"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 11:26:42 GMT",
+			"file": "/home/ismax/model.store/server/router.js",
+			"line": 107,
+			"column": 13,
+			"func": "router.route.file.cache"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 11:26:42 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/controller/secure.js",
+			"line": 145,
+			"column": 7,
+			"func": "exports.auth"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 11:26:42 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/model/secure.js",
+			"line": 32,
+			"column": 9,
+			"func": "exports.getUserBySession"
+		}
+	]
+}
+{
+	"message": "My error",
+	"stack": [
+		{
+			"time": "Sat, 20 Apr 2013 13:13:54 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/controller/category.js",
+			"line": 43,
+			"column": 7,
+			"func": "exports.insert"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 13:13:54 GMT",
+			"file": "/home/ismax/model.store/server/router.js",
+			"line": 106,
+			"column": 23,
+			"func": "next"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 13:13:54 GMT",
+			"file": "/home/ismax/model.store/server/router.js",
+			"line": 107,
+			"column": 13,
+			"func": "router.route.file.cache"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 13:13:54 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/controller/secure.js",
+			"line": 145,
+			"column": 7,
+			"func": "exports.auth"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 13:13:54 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/model/secure.js",
+			"line": 32,
+			"column": 9,
+			"func": "exports.getUserBySession"
+		}
+	]
+}
+{
+	"message": "My error",
+	"stack": [
+		{
+			"time": "Sat, 20 Apr 2013 13:14:00 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/controller/category.js",
+			"line": 43,
+			"column": 7,
+			"func": "exports.insert"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 13:14:00 GMT",
+			"file": "/home/ismax/model.store/server/router.js",
+			"line": 106,
+			"column": 23,
+			"func": "next"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 13:14:00 GMT",
+			"file": "/home/ismax/model.store/server/router.js",
+			"line": 107,
+			"column": 13,
+			"func": "router.route.file.cache"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 13:14:00 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/controller/secure.js",
+			"line": 145,
+			"column": 7,
+			"func": "exports.auth"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 13:14:00 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/model/secure.js",
+			"line": 32,
+			"column": 9,
+			"func": "exports.getUserBySession"
+		}
+	]
+}
+{
+	"message": "My error",
+	"stack": [
+		{
+			"time": "Sat, 20 Apr 2013 13:14:53 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/controller/category.js",
+			"line": 43,
+			"column": 7,
+			"func": "exports.insert"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 13:14:53 GMT",
+			"file": "/home/ismax/model.store/server/router.js",
+			"line": 106,
+			"column": 23,
+			"func": "next"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 13:14:53 GMT",
+			"file": "/home/ismax/model.store/server/router.js",
+			"line": 107,
+			"column": 13,
+			"func": "router.route.file.cache"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 13:14:53 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/controller/secure.js",
+			"line": 145,
+			"column": 7,
+			"func": "exports.auth"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 13:14:53 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/model/secure.js",
+			"line": 32,
+			"column": 9,
+			"func": "exports.getUserBySession"
+		}
+	]
+}
+{
+	"message": "My error",
+	"stack": [
+		{
+			"time": "Sat, 20 Apr 2013 13:22:17 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/controller/category.js",
+			"line": 43,
+			"column": 7,
+			"func": "exports.insert"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 13:22:17 GMT",
+			"file": "/home/ismax/model.store/server/router.js",
+			"line": 106,
+			"column": 23,
+			"func": "next"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 13:22:17 GMT",
+			"file": "/home/ismax/model.store/server/router.js",
+			"line": 107,
+			"column": 13,
+			"func": "router.route.file.cache"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 13:22:17 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/controller/secure.js",
+			"line": 145,
+			"column": 7,
+			"func": "exports.auth"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 13:22:17 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/model/secure.js",
+			"line": 32,
+			"column": 9,
+			"func": "exports.getUserBySession"
+		}
+	]
+}
+{
+	"message": "My error",
+	"stack": [
+		{
+			"time": "Sat, 20 Apr 2013 13:22:32 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/controller/category.js",
+			"line": 43,
+			"column": 7,
+			"func": "exports.insert"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 13:22:32 GMT",
+			"file": "/home/ismax/model.store/server/router.js",
+			"line": 106,
+			"column": 23,
+			"func": "next"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 13:22:32 GMT",
+			"file": "/home/ismax/model.store/server/router.js",
+			"line": 107,
+			"column": 13,
+			"func": "router.route.file.cache"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 13:22:32 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/controller/secure.js",
+			"line": 145,
+			"column": 7,
+			"func": "exports.auth"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 13:22:32 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/model/secure.js",
+			"line": 32,
+			"column": 9,
+			"func": "exports.getUserBySession"
+		}
+	]
+}
+{
+	"message": "My error",
+	"stack": [
+		{
+			"time": "Sat, 20 Apr 2013 13:22:39 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/controller/category.js",
+			"line": 43,
+			"column": 7,
+			"func": "exports.insert"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 13:22:39 GMT",
+			"file": "/home/ismax/model.store/server/router.js",
+			"line": 106,
+			"column": 23,
+			"func": "next"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 13:22:39 GMT",
+			"file": "/home/ismax/model.store/server/router.js",
+			"line": 107,
+			"column": 13,
+			"func": "router.route.file.cache"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 13:22:39 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/controller/secure.js",
+			"line": 145,
+			"column": 7,
+			"func": "exports.auth"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 13:22:39 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/model/secure.js",
+			"line": 32,
+			"column": 9,
+			"func": "exports.getUserBySession"
+		}
+	]
+}
+{
+	"message": "My error",
+	"stack": [
+		{
+			"time": "Sat, 20 Apr 2013 13:22:45 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/controller/category.js",
+			"line": 43,
+			"column": 7,
+			"func": "exports.insert"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 13:22:45 GMT",
+			"file": "/home/ismax/model.store/server/router.js",
+			"line": 106,
+			"column": 23,
+			"func": "next"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 13:22:45 GMT",
+			"file": "/home/ismax/model.store/server/router.js",
+			"line": 107,
+			"column": 13,
+			"func": "router.route.file.cache"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 13:22:45 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/controller/secure.js",
+			"line": 145,
+			"column": 7,
+			"func": "exports.auth"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 13:22:45 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/model/secure.js",
+			"line": 32,
+			"column": 9,
+			"func": "exports.getUserBySession"
+		}
+	]
+}
+{
+	"message": "My error",
+	"stack": [
+		{
+			"time": "Sat, 20 Apr 2013 13:31:09 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/controller/category.js",
+			"line": 76,
+			"column": 7,
+			"func": "exports.remove"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 13:31:09 GMT",
+			"file": "/home/ismax/model.store/server/router.js",
+			"line": 106,
+			"column": 23,
+			"func": "next"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 13:31:09 GMT",
+			"file": "/home/ismax/model.store/server/router.js",
+			"line": 107,
+			"column": 13,
+			"func": "router.route.file.cache"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 13:31:09 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/controller/secure.js",
+			"line": 145,
+			"column": 7,
+			"func": "exports.auth"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 13:31:09 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/model/secure.js",
+			"line": 32,
+			"column": 9,
+			"func": "exports.getUserBySession"
+		}
+	]
+}
+{
+	"message": "My error",
+	"stack": [
+		{
+			"time": "Sat, 20 Apr 2013 13:40:01 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/controller/category.js",
+			"line": 76,
+			"column": 7,
+			"func": "exports.remove"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 13:40:01 GMT",
+			"file": "/home/ismax/model.store/server/router.js",
+			"line": 106,
+			"column": 23,
+			"func": "next"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 13:40:01 GMT",
+			"file": "/home/ismax/model.store/server/router.js",
+			"line": 107,
+			"column": 13,
+			"func": "router.route.file.cache"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 13:40:01 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/controller/secure.js",
+			"line": 145,
+			"column": 7,
+			"func": "exports.auth"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 13:40:01 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/model/secure.js",
+			"line": 32,
+			"column": 9,
+			"func": "exports.getUserBySession"
+		}
+	]
+}
+{
+	"message": "My error",
+	"stack": [
+		{
+			"time": "Sat, 20 Apr 2013 13:47:29 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/controller/category.js",
+			"line": 76,
+			"column": 7,
+			"func": "exports.remove"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 13:47:29 GMT",
+			"file": "/home/ismax/model.store/server/router.js",
+			"line": 106,
+			"column": 23,
+			"func": "next"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 13:47:29 GMT",
+			"file": "/home/ismax/model.store/server/router.js",
+			"line": 107,
+			"column": 13,
+			"func": "router.route.file.cache"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 13:47:29 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/controller/secure.js",
+			"line": 145,
+			"column": 7,
+			"func": "exports.auth"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 13:47:29 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/model/secure.js",
+			"line": 32,
+			"column": 9,
+			"func": "exports.getUserBySession"
+		}
+	]
+}
+{
+	"message": "My error",
+	"stack": [
+		{
+			"time": "Sat, 20 Apr 2013 14:49:52 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/controller/category.js",
+			"line": 76,
+			"column": 7,
+			"func": "exports.remove"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 14:49:52 GMT",
+			"file": "/home/ismax/model.store/server/router.js",
+			"line": 106,
+			"column": 23,
+			"func": "next"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 14:49:52 GMT",
+			"file": "/home/ismax/model.store/server/router.js",
+			"line": 107,
+			"column": 13,
+			"func": "router.route.file.cache"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 14:49:52 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/controller/secure.js",
+			"line": 145,
+			"column": 7,
+			"func": "exports.auth"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 14:49:52 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/model/secure.js",
+			"line": 32,
+			"column": 9,
+			"func": "exports.getUserBySession"
+		}
+	]
+}
+{
+	"message": "My error",
+	"stack": [
+		{
+			"time": "Sat, 20 Apr 2013 14:58:50 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/controller/category.js",
+			"line": 76,
+			"column": 7,
+			"func": "exports.remove"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 14:58:50 GMT",
+			"file": "/home/ismax/model.store/server/router.js",
+			"line": 106,
+			"column": 23,
+			"func": "next"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 14:58:50 GMT",
+			"file": "/home/ismax/model.store/server/router.js",
+			"line": 107,
+			"column": 13,
+			"func": "router.route.file.cache"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 14:58:50 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/controller/secure.js",
+			"line": 145,
+			"column": 7,
+			"func": "exports.auth"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 14:58:50 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/model/secure.js",
+			"line": 32,
+			"column": 9,
+			"func": "exports.getUserBySession"
+		}
+	]
+}
+{
+	"message": "My error",
+	"stack": [
+		{
+			"time": "Sat, 20 Apr 2013 15:00:14 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/controller/category.js",
+			"line": 76,
+			"column": 7,
+			"func": "exports.remove"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 15:00:14 GMT",
+			"file": "/home/ismax/model.store/server/router.js",
+			"line": 106,
+			"column": 23,
+			"func": "next"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 15:00:14 GMT",
+			"file": "/home/ismax/model.store/server/router.js",
+			"line": 107,
+			"column": 13,
+			"func": "router.route.file.cache"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 15:00:14 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/controller/secure.js",
+			"line": 145,
+			"column": 7,
+			"func": "exports.auth"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 15:00:14 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/model/secure.js",
+			"line": 32,
+			"column": 9,
+			"func": "exports.getUserBySession"
+		}
+	]
+}
+{
+	"message": "My error",
+	"stack": [
+		{
+			"time": "Sat, 20 Apr 2013 15:04:51 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/controller/category.js",
+			"line": 76,
+			"column": 7,
+			"func": "exports.remove"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 15:04:51 GMT",
+			"file": "/home/ismax/model.store/server/router.js",
+			"line": 106,
+			"column": 23,
+			"func": "next"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 15:04:51 GMT",
+			"file": "/home/ismax/model.store/server/router.js",
+			"line": 107,
+			"column": 13,
+			"func": "router.route.file.cache"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 15:04:51 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/controller/secure.js",
+			"line": 145,
+			"column": 7,
+			"func": "exports.auth"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 15:04:51 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/model/secure.js",
+			"line": 32,
+			"column": 9,
+			"func": "exports.getUserBySession"
+		}
+	]
+}
+{
+	"message": "My error",
+	"stack": [
+		{
+			"time": "Sat, 20 Apr 2013 15:08:40 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/controller/category.js",
+			"line": 76,
+			"column": 7,
+			"func": "exports.remove"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 15:08:40 GMT",
+			"file": "/home/ismax/model.store/server/router.js",
+			"line": 106,
+			"column": 23,
+			"func": "next"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 15:08:40 GMT",
+			"file": "/home/ismax/model.store/server/router.js",
+			"line": 107,
+			"column": 13,
+			"func": "router.route.file.cache"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 15:08:40 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/controller/secure.js",
+			"line": 145,
+			"column": 7,
+			"func": "exports.auth"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 15:08:40 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/model/secure.js",
+			"line": 32,
+			"column": 9,
+			"func": "exports.getUserBySession"
+		}
+	]
+}
+{
+	"message": "My error",
+	"stack": [
+		{
+			"time": "Sat, 20 Apr 2013 15:14:11 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/controller/category.js",
+			"line": 76,
+			"column": 7,
+			"func": "exports.remove"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 15:14:11 GMT",
+			"file": "/home/ismax/model.store/server/router.js",
+			"line": 106,
+			"column": 23,
+			"func": "next"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 15:14:11 GMT",
+			"file": "/home/ismax/model.store/server/router.js",
+			"line": 107,
+			"column": 13,
+			"func": "router.route.file.cache"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 15:14:11 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/controller/secure.js",
+			"line": 145,
+			"column": 7,
+			"func": "exports.auth"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 15:14:11 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/model/secure.js",
+			"line": 32,
+			"column": 9,
+			"func": "exports.getUserBySession"
+		}
+	]
+}
+{
+	"message": "My error",
+	"stack": [
+		{
+			"time": "Sat, 20 Apr 2013 15:15:36 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/controller/category.js",
+			"line": 76,
+			"column": 7,
+			"func": "exports.remove"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 15:15:36 GMT",
+			"file": "/home/ismax/model.store/server/router.js",
+			"line": 106,
+			"column": 23,
+			"func": "next"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 15:15:36 GMT",
+			"file": "/home/ismax/model.store/server/router.js",
+			"line": 107,
+			"column": 13,
+			"func": "router.route.file.cache"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 15:15:36 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/controller/secure.js",
+			"line": 145,
+			"column": 7,
+			"func": "exports.auth"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 15:15:36 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/model/secure.js",
+			"line": 32,
+			"column": 9,
+			"func": "exports.getUserBySession"
+		}
+	]
+}
+{
+	"message": "My error",
+	"stack": [
+		{
+			"time": "Sat, 20 Apr 2013 15:38:41 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/controller/category.js",
+			"line": 79,
+			"column": 13,
+			"func": "exports.remove.response.auth"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 15:38:41 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/model/category.js",
+			"line": 114,
+			"column": 9,
+			"func": "exports.removeCategory"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 15:38:41 GMT",
+			"file": "domain.js",
+			"line": 201,
+			"column": 18,
+			"func": "Domain.bind.b"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 15:38:41 GMT",
+			"file": "/home/ismax/model.store/node_modules/mongodb/lib/mongodb/collection.js",
+			"line": 196,
+			"column": 9,
 			"func": null
+		},
+		{
+			"time": "Sat, 20 Apr 2013 15:38:41 GMT",
+			"file": "events.js",
+			"line": 192,
+			"column": 14,
+			"func": "g"
+		}
+	]
+}
+{
+	"message": "My error",
+	"stack": [
+		{
+			"time": "Sat, 20 Apr 2013 15:44:37 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/controller/category.js",
+			"line": 79,
+			"column": 13,
+			"func": "exports.remove.response.auth"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 15:44:37 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/model/category.js",
+			"line": 114,
+			"column": 9,
+			"func": "exports.removeCategory"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 15:44:37 GMT",
+			"file": "domain.js",
+			"line": 201,
+			"column": 18,
+			"func": "Domain.bind.b"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 15:44:37 GMT",
+			"file": "/home/ismax/model.store/node_modules/mongodb/lib/mongodb/collection.js",
+			"line": 196,
+			"column": 9,
+			"func": null
+		},
+		{
+			"time": "Sat, 20 Apr 2013 15:44:37 GMT",
+			"file": "events.js",
+			"line": 192,
+			"column": 14,
+			"func": "g"
+		}
+	]
+}
+{
+	"message": "My error",
+	"stack": [
+		{
+			"time": "Sat, 20 Apr 2013 15:48:47 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/controller/category.js",
+			"line": 79,
+			"column": 13,
+			"func": "exports.remove.response.auth"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 15:48:47 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/model/category.js",
+			"line": 114,
+			"column": 9,
+			"func": "exports.removeCategory"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 15:48:47 GMT",
+			"file": "domain.js",
+			"line": 201,
+			"column": 18,
+			"func": "Domain.bind.b"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 15:48:47 GMT",
+			"file": "/home/ismax/model.store/node_modules/mongodb/lib/mongodb/collection.js",
+			"line": 196,
+			"column": 9,
+			"func": null
+		},
+		{
+			"time": "Sat, 20 Apr 2013 15:48:47 GMT",
+			"file": "events.js",
+			"line": 192,
+			"column": 14,
+			"func": "g"
+		}
+	]
+}
+{
+	"message": "My error",
+	"stack": [
+		{
+			"time": "Sat, 20 Apr 2013 15:50:38 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/controller/category.js",
+			"line": 79,
+			"column": 13,
+			"func": "exports.remove.response.auth"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 15:50:38 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/model/category.js",
+			"line": 114,
+			"column": 9,
+			"func": "exports.removeCategory"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 15:50:38 GMT",
+			"file": "domain.js",
+			"line": 201,
+			"column": 18,
+			"func": "Domain.bind.b"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 15:50:38 GMT",
+			"file": "/home/ismax/model.store/node_modules/mongodb/lib/mongodb/collection.js",
+			"line": 196,
+			"column": 9,
+			"func": null
+		},
+		{
+			"time": "Sat, 20 Apr 2013 15:50:38 GMT",
+			"file": "events.js",
+			"line": 192,
+			"column": 14,
+			"func": "g"
+		}
+	]
+}
+{
+	"message": "My error",
+	"stack": [
+		{
+			"time": "Sat, 20 Apr 2013 15:53:39 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/controller/category.js",
+			"line": 79,
+			"column": 13,
+			"func": "exports.remove.response.auth"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 15:53:39 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/model/category.js",
+			"line": 114,
+			"column": 9,
+			"func": "exports.removeCategory"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 15:53:39 GMT",
+			"file": "domain.js",
+			"line": 201,
+			"column": 18,
+			"func": "Domain.bind.b"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 15:53:39 GMT",
+			"file": "/home/ismax/model.store/node_modules/mongodb/lib/mongodb/collection.js",
+			"line": 196,
+			"column": 9,
+			"func": null
+		},
+		{
+			"time": "Sat, 20 Apr 2013 15:53:39 GMT",
+			"file": "events.js",
+			"line": 192,
+			"column": 14,
+			"func": "g"
+		}
+	]
+}
+{
+	"message": "My error",
+	"stack": [
+		{
+			"time": "Sat, 20 Apr 2013 17:12:47 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/controller/category.js",
+			"line": 79,
+			"column": 13,
+			"func": "exports.remove.response.auth"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 17:12:47 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/model/category.js",
+			"line": 114,
+			"column": 9,
+			"func": "exports.removeCategory"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 17:12:47 GMT",
+			"file": "domain.js",
+			"line": 201,
+			"column": 18,
+			"func": "Domain.bind.b"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 17:12:47 GMT",
+			"file": "/home/ismax/model.store/node_modules/mongodb/lib/mongodb/collection.js",
+			"line": 196,
+			"column": 9,
+			"func": null
+		},
+		{
+			"time": "Sat, 20 Apr 2013 17:12:47 GMT",
+			"file": "events.js",
+			"line": 192,
+			"column": 14,
+			"func": "g"
+		}
+	]
+}
+{
+	"message": "My error",
+	"stack": [
+		{
+			"time": "Sat, 20 Apr 2013 17:16:47 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/controller/category.js",
+			"line": 78,
+			"column": 11,
+			"func": "exports.remove"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 17:16:47 GMT",
+			"file": "/home/ismax/model.store/server/router.js",
+			"line": 106,
+			"column": 23,
+			"func": "next"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 17:16:47 GMT",
+			"file": "/home/ismax/model.store/server/router.js",
+			"line": 107,
+			"column": 13,
+			"func": "router.route.file.cache"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 17:16:47 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/controller/secure.js",
+			"line": 145,
+			"column": 7,
+			"func": "exports.auth"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 17:16:47 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/model/secure.js",
+			"line": 32,
+			"column": 9,
+			"func": "exports.getUserBySession"
+		}
+	]
+}
+{
+	"message": "My error",
+	"stack": [
+		{
+			"time": "Sat, 20 Apr 2013 17:19:49 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/controller/category.js",
+			"line": 78,
+			"column": 11,
+			"func": "exports.remove"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 17:19:49 GMT",
+			"file": "/home/ismax/model.store/server/router.js",
+			"line": 106,
+			"column": 23,
+			"func": "next"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 17:19:49 GMT",
+			"file": "/home/ismax/model.store/server/router.js",
+			"line": 107,
+			"column": 13,
+			"func": "router.route.file.cache"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 17:19:49 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/controller/secure.js",
+			"line": 145,
+			"column": 7,
+			"func": "exports.auth"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 17:19:49 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/model/secure.js",
+			"line": 32,
+			"column": 9,
+			"func": "exports.getUserBySession"
+		}
+	]
+}
+{
+	"message": "My error",
+	"stack": [
+		{
+			"time": "Sat, 20 Apr 2013 17:22:04 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/controller/category.js",
+			"line": 78,
+			"column": 11,
+			"func": "exports.remove"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 17:22:04 GMT",
+			"file": "/home/ismax/model.store/server/router.js",
+			"line": 106,
+			"column": 23,
+			"func": "next"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 17:22:04 GMT",
+			"file": "/home/ismax/model.store/server/router.js",
+			"line": 107,
+			"column": 13,
+			"func": "router.route.file.cache"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 17:22:04 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/controller/secure.js",
+			"line": 145,
+			"column": 7,
+			"func": "exports.auth"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 17:22:04 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/model/secure.js",
+			"line": 32,
+			"column": 9,
+			"func": "exports.getUserBySession"
+		}
+	]
+}
+{
+	"message": "My error",
+	"stack": [
+		{
+			"time": "Sat, 20 Apr 2013 17:27:07 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/controller/category.js",
+			"line": 78,
+			"column": 11,
+			"func": "exports.remove"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 17:27:07 GMT",
+			"file": "/home/ismax/model.store/server/router.js",
+			"line": 106,
+			"column": 23,
+			"func": "next"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 17:27:07 GMT",
+			"file": "/home/ismax/model.store/server/router.js",
+			"line": 107,
+			"column": 13,
+			"func": "router.route.file.cache"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 17:27:07 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/controller/secure.js",
+			"line": 145,
+			"column": 7,
+			"func": "exports.auth"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 17:27:07 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/model/secure.js",
+			"line": 32,
+			"column": 9,
+			"func": "exports.getUserBySession"
+		}
+	]
+}
+{
+	"message": "My error",
+	"stack": [
+		{
+			"time": "Sat, 20 Apr 2013 17:35:44 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/controller/category.js",
+			"line": 78,
+			"column": 11,
+			"func": "exports.remove"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 17:35:44 GMT",
+			"file": "/home/ismax/model.store/server/router.js",
+			"line": 106,
+			"column": 23,
+			"func": "next"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 17:35:44 GMT",
+			"file": "/home/ismax/model.store/server/router.js",
+			"line": 107,
+			"column": 13,
+			"func": "router.route.file.cache"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 17:35:44 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/controller/secure.js",
+			"line": 145,
+			"column": 7,
+			"func": "exports.auth"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 17:35:44 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/model/secure.js",
+			"line": 32,
+			"column": 9,
+			"func": "exports.getUserBySession"
+		}
+	]
+}
+{
+	"message": "My error",
+	"stack": [
+		{
+			"time": "Sat, 20 Apr 2013 18:12:19 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/controller/category.js",
+			"line": 76,
+			"column": 11,
+			"func": "exports.remove"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 18:12:19 GMT",
+			"file": "/home/ismax/model.store/server/router.js",
+			"line": 106,
+			"column": 23,
+			"func": "next"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 18:12:19 GMT",
+			"file": "/home/ismax/model.store/server/router.js",
+			"line": 107,
+			"column": 13,
+			"func": "router.route.file.cache"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 18:12:19 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/controller/secure.js",
+			"line": 145,
+			"column": 7,
+			"func": "exports.auth"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 18:12:19 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/model/secure.js",
+			"line": 32,
+			"column": 9,
+			"func": "exports.getUserBySession"
+		}
+	]
+}
+{
+	"message": "Cannot read property 'name' of undefined",
+	"stack": [
+		{
+			"time": "Sat, 20 Apr 2013 18:13:26 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/model/category.js",
+			"line": 70,
+			"column": 21,
+			"func": "exports.insertCategory"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 18:13:26 GMT",
+			"file": "domain.js",
+			"line": 201,
+			"column": 18,
+			"func": "Domain.bind.b"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 18:13:26 GMT",
+			"file": "/home/ismax/model.store/node_modules/mongodb/lib/mongodb/collection.js",
+			"line": 1010,
+			"column": 5,
+			"func": "Collection.findOne"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 18:13:26 GMT",
+			"file": "/home/ismax/model.store/node_modules/mongodb/lib/mongodb/cursor.js",
+			"line": 653,
+			"column": 5,
+			"func": "Cursor.nextObject"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 18:13:26 GMT",
+			"file": "/home/ismax/model.store/node_modules/mongodb/lib/mongodb/cursor.js",
+			"line": 635,
+			"column": 14,
+			"func": "Cursor.nextObject.commandHandler"
+		}
+	]
+}
+{
+	"message": "My error",
+	"stack": [
+		{
+			"time": "Sat, 20 Apr 2013 18:17:50 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/controller/category.js",
+			"line": 76,
+			"column": 11,
+			"func": "exports.remove"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 18:17:50 GMT",
+			"file": "/home/ismax/model.store/server/router.js",
+			"line": 106,
+			"column": 23,
+			"func": "next"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 18:17:50 GMT",
+			"file": "/home/ismax/model.store/server/router.js",
+			"line": 107,
+			"column": 13,
+			"func": "router.route.file.cache"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 18:17:50 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/controller/secure.js",
+			"line": 145,
+			"column": 7,
+			"func": "exports.auth"
+		},
+		{
+			"time": "Sat, 20 Apr 2013 18:17:50 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/model/secure.js",
+			"line": 32,
+			"column": 9,
+			"func": "exports.getUserBySession"
+		}
+	]
+}
+{
+	"message": "collection is not defined",
+	"stack": [
+		{
+			"time": "Sun, 21 Apr 2013 09:07:10 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/model/category.js",
+			"line": 100,
+			"column": 3,
+			"func": "exports.updateCategory"
+		},
+		{
+			"time": "Sun, 21 Apr 2013 09:07:10 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/controller/category.js",
+			"line": 76,
+			"column": 11,
+			"func": "exports.update"
+		},
+		{
+			"time": "Sun, 21 Apr 2013 09:07:10 GMT",
+			"file": "/home/ismax/model.store/server/router.js",
+			"line": 106,
+			"column": 23,
+			"func": "next"
+		},
+		{
+			"time": "Sun, 21 Apr 2013 09:07:10 GMT",
+			"file": "/home/ismax/model.store/server/router.js",
+			"line": 107,
+			"column": 13,
+			"func": "router.route.file.cache"
+		},
+		{
+			"time": "Sun, 21 Apr 2013 09:07:10 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/controller/secure.js",
+			"line": 145,
+			"column": 7,
+			"func": "exports.auth"
 		}
 	]
 }
@@ -1038,35 +1882,35 @@
 	"message": "Unexpected token {",
 	"stack": [
 		{
-			"time": "Tue, 16 Apr 2013 12:09:57 GMT",
+			"time": "Sun, 21 Apr 2013 14:59:10 GMT",
 			"file": "module.js",
 			"line": 437,
 			"column": 25,
 			"func": "Module._compile"
 		},
 		{
-			"time": "Tue, 16 Apr 2013 12:09:57 GMT",
+			"time": "Sun, 21 Apr 2013 14:59:10 GMT",
 			"file": "module.js",
 			"line": 467,
 			"column": 10,
 			"func": "Module._extensions..js"
 		},
 		{
-			"time": "Tue, 16 Apr 2013 12:09:57 GMT",
+			"time": "Sun, 21 Apr 2013 14:59:10 GMT",
 			"file": "module.js",
 			"line": 356,
 			"column": 32,
 			"func": "Module.load"
 		},
 		{
-			"time": "Tue, 16 Apr 2013 12:09:57 GMT",
+			"time": "Sun, 21 Apr 2013 14:59:10 GMT",
 			"file": "module.js",
 			"line": 312,
 			"column": 12,
 			"func": "Module._load"
 		},
 		{
-			"time": "Tue, 16 Apr 2013 12:09:57 GMT",
+			"time": "Sun, 21 Apr 2013 14:59:10 GMT",
 			"file": "module.js",
 			"line": 362,
 			"column": 17,
@@ -1075,202 +1919,962 @@
 	]
 }
 {
-	"message": "Cannot call method 'parse' of undefined",
+	"message": "Object #<Object> has no method 'moveCategory'",
 	"stack": [
 		{
-			"time": "Tue, 16 Apr 2013 12:54:09 GMT",
-			"file": "/home/ismax/model.store/server/socket.js",
-			"line": 71,
-			"column": 29,
-			"func": "exports.listen.sio.sockets.on.socket.on.me"
+			"time": "Sun, 21 Apr 2013 15:00:24 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/controller/category.js",
+			"line": 106,
+			"column": 11,
+			"func": "exports.move"
 		},
 		{
-			"time": "Tue, 16 Apr 2013 12:54:09 GMT",
-			"file": "/home/ismax/model.store/node_modules/socket.io/lib/manager.js",
-			"line": 910,
-			"column": 31,
-			"func": "Manager.authorize"
+			"time": "Sun, 21 Apr 2013 15:00:24 GMT",
+			"file": "/home/ismax/model.store/server/router.js",
+			"line": 106,
+			"column": 23,
+			"func": "next"
 		},
 		{
-			"time": "Tue, 16 Apr 2013 12:54:09 GMT",
-			"file": "/home/ismax/model.store/node_modules/socket.io/lib/manager.js",
-			"line": 786,
-			"column": 8,
-			"func": "Manager.handleHandshake"
+			"time": "Sun, 21 Apr 2013 15:00:24 GMT",
+			"file": "/home/ismax/model.store/server/router.js",
+			"line": 107,
+			"column": 13,
+			"func": "router.route.file.cache"
 		},
 		{
-			"time": "Tue, 16 Apr 2013 12:54:09 GMT",
-			"file": "/home/ismax/model.store/node_modules/socket.io/lib/manager.js",
-			"line": 593,
-			"column": 12,
-			"func": "Manager.handleRequest"
+			"time": "Sun, 21 Apr 2013 15:00:24 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/controller/secure.js",
+			"line": 145,
+			"column": 7,
+			"func": "exports.auth"
 		},
 		{
-			"time": "Tue, 16 Apr 2013 12:54:09 GMT",
-			"file": "/home/ismax/model.store/node_modules/socket.io/lib/manager.js",
-			"line": 119,
-			"column": 10,
-			"func": null
+			"time": "Sun, 21 Apr 2013 15:00:24 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/model/secure.js",
+			"line": 32,
+			"column": 9,
+			"func": "exports.getUserBySession"
 		}
 	]
 }
 {
-	"message": "Cannot call method 'parse' of undefined",
+	"message": "Cannot call method 'findOne' of undefined",
 	"stack": [
 		{
-			"time": "Tue, 16 Apr 2013 13:00:53 GMT",
-			"file": "/home/ismax/model.store/server/socket.js",
-			"line": 71,
-			"column": 29,
-			"func": "exports.listen.sio.sockets.on.socket.on.me"
+			"time": "Sun, 21 Apr 2013 18:44:54 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/model/category.js",
+			"line": 46,
+			"column": 30,
+			"func": "exports.getCategoryList"
 		},
 		{
-			"time": "Tue, 16 Apr 2013 13:00:53 GMT",
-			"file": "/home/ismax/model.store/node_modules/socket.io/lib/manager.js",
-			"line": 910,
-			"column": 31,
-			"func": "Manager.authorize"
+			"time": "Sun, 21 Apr 2013 18:44:54 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/controller/category.js",
+			"line": 26,
+			"column": 9,
+			"func": "exports.list"
 		},
 		{
-			"time": "Tue, 16 Apr 2013 13:00:53 GMT",
-			"file": "/home/ismax/model.store/node_modules/socket.io/lib/manager.js",
-			"line": 786,
-			"column": 8,
-			"func": "Manager.handleHandshake"
+			"time": "Sun, 21 Apr 2013 18:44:54 GMT",
+			"file": "/home/ismax/model.store/server/router.js",
+			"line": 106,
+			"column": 23,
+			"func": "next"
 		},
 		{
-			"time": "Tue, 16 Apr 2013 13:00:53 GMT",
-			"file": "/home/ismax/model.store/node_modules/socket.io/lib/manager.js",
-			"line": 593,
-			"column": 12,
-			"func": "Manager.handleRequest"
+			"time": "Sun, 21 Apr 2013 18:44:54 GMT",
+			"file": "/home/ismax/model.store/server/router.js",
+			"line": 107,
+			"column": 13,
+			"func": "router.route.file.cache"
 		},
 		{
-			"time": "Tue, 16 Apr 2013 13:00:53 GMT",
-			"file": "/home/ismax/model.store/node_modules/socket.io/lib/manager.js",
-			"line": 119,
-			"column": 10,
-			"func": null
+			"time": "Sun, 21 Apr 2013 18:44:54 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/controller/secure.js",
+			"line": 145,
+			"column": 7,
+			"func": "exports.auth"
 		}
 	]
 }
 {
-	"message": "Cannot call method 'parse' of undefined",
+	"message": "Can't set headers after they are sent.",
 	"stack": [
 		{
-			"time": "Tue, 16 Apr 2013 13:01:35 GMT",
-			"file": "/home/ismax/model.store/server/socket.js",
-			"line": 71,
-			"column": 29,
-			"func": "exports.listen.sio.sockets.on.socket.on.me"
+			"time": "Sun, 21 Apr 2013 18:44:54 GMT",
+			"file": "http.js",
+			"line": 645,
+			"column": 11,
+			"func": "OutgoingMessage.setHeader"
 		},
 		{
-			"time": "Tue, 16 Apr 2013 13:01:35 GMT",
-			"file": "/home/ismax/model.store/node_modules/socket.io/lib/manager.js",
-			"line": 910,
-			"column": 31,
-			"func": "Manager.authorize"
+			"time": "Sun, 21 Apr 2013 18:44:54 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/controller/category.js",
+			"line": 34,
+			"column": 11,
+			"func": "exports.list"
 		},
 		{
-			"time": "Tue, 16 Apr 2013 13:01:35 GMT",
-			"file": "/home/ismax/model.store/node_modules/socket.io/lib/manager.js",
-			"line": 786,
-			"column": 8,
-			"func": "Manager.handleHandshake"
+			"time": "Sun, 21 Apr 2013 18:44:54 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/model/category.js",
+			"line": 39,
+			"column": 9,
+			"func": "exports.getCategoryList.path"
 		},
 		{
-			"time": "Tue, 16 Apr 2013 13:01:35 GMT",
-			"file": "/home/ismax/model.store/node_modules/socket.io/lib/manager.js",
-			"line": 593,
-			"column": 12,
-			"func": "Manager.handleRequest"
+			"time": "Sun, 21 Apr 2013 18:44:54 GMT",
+			"file": "domain.js",
+			"line": 201,
+			"column": 18,
+			"func": "Domain.bind.b"
 		},
 		{
-			"time": "Tue, 16 Apr 2013 13:01:35 GMT",
-			"file": "/home/ismax/model.store/node_modules/socket.io/lib/manager.js",
-			"line": 119,
-			"column": 10,
-			"func": null
+			"time": "Sun, 21 Apr 2013 18:44:54 GMT",
+			"file": "/home/ismax/model.store/node_modules/mongodb/lib/mongodb/cursor.js",
+			"line": 159,
+			"column": 16,
+			"func": "Cursor.toArray"
 		}
 	]
 }
 {
-	"message": "Cannot call method 'parse' of undefined",
+	"message": "object is not a function",
 	"stack": [
 		{
-			"time": "Tue, 16 Apr 2013 13:01:55 GMT",
-			"file": "/home/ismax/model.store/server/socket.js",
-			"line": 71,
-			"column": 29,
-			"func": "exports.listen.sio.sockets.on.socket.on.me"
+			"time": "Sun, 21 Apr 2013 18:53:20 GMT",
+			"file": "/home/ismax/model.store/node_modules/mongodb/lib/mongodb/collection.js",
+			"line": 1010,
+			"column": 5,
+			"func": "Collection.findOne"
 		},
 		{
-			"time": "Tue, 16 Apr 2013 13:01:55 GMT",
-			"file": "/home/ismax/model.store/node_modules/socket.io/lib/manager.js",
-			"line": 910,
-			"column": 31,
-			"func": "Manager.authorize"
+			"time": "Sun, 21 Apr 2013 18:53:20 GMT",
+			"file": "/home/ismax/model.store/node_modules/mongodb/lib/mongodb/cursor.js",
+			"line": 653,
+			"column": 5,
+			"func": "Cursor.nextObject"
 		},
 		{
-			"time": "Tue, 16 Apr 2013 13:01:55 GMT",
-			"file": "/home/ismax/model.store/node_modules/socket.io/lib/manager.js",
-			"line": 786,
-			"column": 8,
-			"func": "Manager.handleHandshake"
+			"time": "Sun, 21 Apr 2013 18:53:20 GMT",
+			"file": "/home/ismax/model.store/node_modules/mongodb/lib/mongodb/cursor.js",
+			"line": 635,
+			"column": 14,
+			"func": "Cursor.nextObject.commandHandler"
 		},
 		{
-			"time": "Tue, 16 Apr 2013 13:01:55 GMT",
-			"file": "/home/ismax/model.store/node_modules/socket.io/lib/manager.js",
-			"line": 593,
-			"column": 12,
-			"func": "Manager.handleRequest"
+			"time": "Sun, 21 Apr 2013 18:53:20 GMT",
+			"file": "/home/ismax/model.store/node_modules/mongodb/lib/mongodb/db.js",
+			"line": 1709,
+			"column": 18,
+			"func": "Db._executeQueryCommand"
 		},
 		{
-			"time": "Tue, 16 Apr 2013 13:01:55 GMT",
-			"file": "/home/ismax/model.store/node_modules/socket.io/lib/manager.js",
-			"line": 119,
-			"column": 10,
-			"func": null
+			"time": "Sun, 21 Apr 2013 18:53:20 GMT",
+			"file": "events.js",
+			"line": 192,
+			"column": 14,
+			"func": "g"
 		}
 	]
 }
 {
-	"message": "Cannot call method 'parse' of undefined",
+	"message": "object is not a function",
 	"stack": [
 		{
-			"time": "Tue, 16 Apr 2013 13:10:24 GMT",
-			"file": "/home/ismax/model.store/server/socket.js",
-			"line": 71,
+			"time": "Sun, 21 Apr 2013 18:53:22 GMT",
+			"file": "/home/ismax/model.store/node_modules/mongodb/lib/mongodb/collection.js",
+			"line": 1010,
+			"column": 5,
+			"func": "Collection.findOne"
+		},
+		{
+			"time": "Sun, 21 Apr 2013 18:53:22 GMT",
+			"file": "/home/ismax/model.store/node_modules/mongodb/lib/mongodb/cursor.js",
+			"line": 653,
+			"column": 5,
+			"func": "Cursor.nextObject"
+		},
+		{
+			"time": "Sun, 21 Apr 2013 18:53:22 GMT",
+			"file": "/home/ismax/model.store/node_modules/mongodb/lib/mongodb/cursor.js",
+			"line": 635,
+			"column": 14,
+			"func": "Cursor.nextObject.commandHandler"
+		},
+		{
+			"time": "Sun, 21 Apr 2013 18:53:22 GMT",
+			"file": "/home/ismax/model.store/node_modules/mongodb/lib/mongodb/db.js",
+			"line": 1709,
+			"column": 18,
+			"func": "Db._executeQueryCommand"
+		},
+		{
+			"time": "Sun, 21 Apr 2013 18:53:22 GMT",
+			"file": "events.js",
+			"line": 192,
+			"column": 14,
+			"func": "g"
+		}
+	]
+}
+{
+	"message": "object is not a function",
+	"stack": [
+		{
+			"time": "Sun, 21 Apr 2013 18:56:00 GMT",
+			"file": "/home/ismax/model.store/node_modules/mongodb/lib/mongodb/collection.js",
+			"line": 1010,
+			"column": 5,
+			"func": "Collection.findOne"
+		},
+		{
+			"time": "Sun, 21 Apr 2013 18:56:00 GMT",
+			"file": "/home/ismax/model.store/node_modules/mongodb/lib/mongodb/cursor.js",
+			"line": 653,
+			"column": 5,
+			"func": "Cursor.nextObject"
+		},
+		{
+			"time": "Sun, 21 Apr 2013 18:56:00 GMT",
+			"file": "/home/ismax/model.store/node_modules/mongodb/lib/mongodb/cursor.js",
+			"line": 635,
+			"column": 14,
+			"func": "Cursor.nextObject.commandHandler"
+		},
+		{
+			"time": "Sun, 21 Apr 2013 18:56:00 GMT",
+			"file": "/home/ismax/model.store/node_modules/mongodb/lib/mongodb/db.js",
+			"line": 1709,
+			"column": 18,
+			"func": "Db._executeQueryCommand"
+		},
+		{
+			"time": "Sun, 21 Apr 2013 18:56:00 GMT",
+			"file": "events.js",
+			"line": 192,
+			"column": 14,
+			"func": "g"
+		}
+	]
+}
+{
+	"message": "Cannot read property 'parent' of null",
+	"stack": [
+		{
+			"time": "Sun, 21 Apr 2013 19:19:21 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/model/category.js",
+			"line": 75,
 			"column": 29,
-			"func": "exports.listen.sio.sockets.on.socket.on.me"
+			"func": "exports.getCategoryList"
 		},
 		{
-			"time": "Tue, 16 Apr 2013 13:10:24 GMT",
-			"file": "/home/ismax/model.store/node_modules/socket.io/lib/manager.js",
-			"line": 910,
-			"column": 31,
-			"func": "Manager.authorize"
+			"time": "Sun, 21 Apr 2013 19:19:21 GMT",
+			"file": "domain.js",
+			"line": 201,
+			"column": 18,
+			"func": "Domain.bind.b"
 		},
 		{
-			"time": "Tue, 16 Apr 2013 13:10:24 GMT",
-			"file": "/home/ismax/model.store/node_modules/socket.io/lib/manager.js",
-			"line": 786,
-			"column": 8,
-			"func": "Manager.handleHandshake"
+			"time": "Sun, 21 Apr 2013 19:19:21 GMT",
+			"file": "/home/ismax/model.store/node_modules/mongodb/lib/mongodb/collection.js",
+			"line": 1010,
+			"column": 5,
+			"func": "Collection.findOne"
 		},
 		{
-			"time": "Tue, 16 Apr 2013 13:10:24 GMT",
-			"file": "/home/ismax/model.store/node_modules/socket.io/lib/manager.js",
-			"line": 593,
-			"column": 12,
-			"func": "Manager.handleRequest"
+			"time": "Sun, 21 Apr 2013 19:19:21 GMT",
+			"file": "/home/ismax/model.store/node_modules/mongodb/lib/mongodb/cursor.js",
+			"line": 658,
+			"column": 35,
+			"func": "Cursor.nextObject"
 		},
 		{
-			"time": "Tue, 16 Apr 2013 13:10:24 GMT",
-			"file": "/home/ismax/model.store/node_modules/socket.io/lib/manager.js",
-			"line": 119,
+			"time": "Sun, 21 Apr 2013 19:19:21 GMT",
+			"file": "/home/ismax/model.store/node_modules/mongodb/lib/mongodb/cursor.js",
+			"line": 939,
+			"column": 5,
+			"func": "Cursor.close"
+		}
+	]
+}
+{
+	"message": "Cannot read property 'name' of null",
+	"stack": [
+		{
+			"time": "Sun, 21 Apr 2013 19:19:50 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/model/category.js",
+			"line": 65,
+			"column": 29,
+			"func": "exports.getCategoryList"
+		},
+		{
+			"time": "Sun, 21 Apr 2013 19:19:50 GMT",
+			"file": "domain.js",
+			"line": 201,
+			"column": 18,
+			"func": "Domain.bind.b"
+		},
+		{
+			"time": "Sun, 21 Apr 2013 19:19:50 GMT",
+			"file": "/home/ismax/model.store/node_modules/mongodb/lib/mongodb/collection.js",
+			"line": 1010,
+			"column": 5,
+			"func": "Collection.findOne"
+		},
+		{
+			"time": "Sun, 21 Apr 2013 19:19:50 GMT",
+			"file": "/home/ismax/model.store/node_modules/mongodb/lib/mongodb/cursor.js",
+			"line": 658,
+			"column": 35,
+			"func": "Cursor.nextObject"
+		},
+		{
+			"time": "Sun, 21 Apr 2013 19:19:50 GMT",
+			"file": "/home/ismax/model.store/node_modules/mongodb/lib/mongodb/cursor.js",
+			"line": 939,
+			"column": 5,
+			"func": "Cursor.close"
+		}
+	]
+}
+{
+	"message": "Cannot read property 'name' of null",
+	"stack": [
+		{
+			"time": "Sun, 21 Apr 2013 19:20:00 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/model/category.js",
+			"line": 65,
+			"column": 29,
+			"func": "exports.getCategoryList"
+		},
+		{
+			"time": "Sun, 21 Apr 2013 19:20:00 GMT",
+			"file": "domain.js",
+			"line": 201,
+			"column": 18,
+			"func": "Domain.bind.b"
+		},
+		{
+			"time": "Sun, 21 Apr 2013 19:20:00 GMT",
+			"file": "/home/ismax/model.store/node_modules/mongodb/lib/mongodb/collection.js",
+			"line": 1010,
+			"column": 5,
+			"func": "Collection.findOne"
+		},
+		{
+			"time": "Sun, 21 Apr 2013 19:20:00 GMT",
+			"file": "/home/ismax/model.store/node_modules/mongodb/lib/mongodb/cursor.js",
+			"line": 658,
+			"column": 35,
+			"func": "Cursor.nextObject"
+		},
+		{
+			"time": "Sun, 21 Apr 2013 19:20:00 GMT",
+			"file": "/home/ismax/model.store/node_modules/mongodb/lib/mongodb/cursor.js",
+			"line": 939,
+			"column": 5,
+			"func": "Cursor.close"
+		}
+	]
+}
+{
+	"message": "Cannot read property 'name' of null",
+	"stack": [
+		{
+			"time": "Sun, 21 Apr 2013 19:20:08 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/model/category.js",
+			"line": 65,
+			"column": 29,
+			"func": "exports.getCategoryList"
+		},
+		{
+			"time": "Sun, 21 Apr 2013 19:20:08 GMT",
+			"file": "domain.js",
+			"line": 201,
+			"column": 18,
+			"func": "Domain.bind.b"
+		},
+		{
+			"time": "Sun, 21 Apr 2013 19:20:08 GMT",
+			"file": "/home/ismax/model.store/node_modules/mongodb/lib/mongodb/collection.js",
+			"line": 1010,
+			"column": 5,
+			"func": "Collection.findOne"
+		},
+		{
+			"time": "Sun, 21 Apr 2013 19:20:08 GMT",
+			"file": "/home/ismax/model.store/node_modules/mongodb/lib/mongodb/cursor.js",
+			"line": 658,
+			"column": 35,
+			"func": "Cursor.nextObject"
+		},
+		{
+			"time": "Sun, 21 Apr 2013 19:20:08 GMT",
+			"file": "/home/ismax/model.store/node_modules/mongodb/lib/mongodb/cursor.js",
+			"line": 939,
+			"column": 5,
+			"func": "Cursor.close"
+		}
+	]
+}
+{
+	"message": "Cannot read property 'parent' of null",
+	"stack": [
+		{
+			"time": "Sun, 21 Apr 2013 19:22:21 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/model/category.js",
+			"line": 76,
+			"column": 18,
+			"func": "exports.getCategoryList"
+		},
+		{
+			"time": "Sun, 21 Apr 2013 19:22:21 GMT",
+			"file": "domain.js",
+			"line": 201,
+			"column": 18,
+			"func": "Domain.bind.b"
+		},
+		{
+			"time": "Sun, 21 Apr 2013 19:22:21 GMT",
+			"file": "/home/ismax/model.store/node_modules/mongodb/lib/mongodb/collection.js",
+			"line": 1010,
+			"column": 5,
+			"func": "Collection.findOne"
+		},
+		{
+			"time": "Sun, 21 Apr 2013 19:22:21 GMT",
+			"file": "/home/ismax/model.store/node_modules/mongodb/lib/mongodb/cursor.js",
+			"line": 658,
+			"column": 35,
+			"func": "Cursor.nextObject"
+		},
+		{
+			"time": "Sun, 21 Apr 2013 19:22:21 GMT",
+			"file": "/home/ismax/model.store/node_modules/mongodb/lib/mongodb/cursor.js",
+			"line": 939,
+			"column": 5,
+			"func": "Cursor.close"
+		}
+	]
+}
+{
+	"message": "Cannot read property 'name' of null",
+	"stack": [
+		{
+			"time": "Sun, 21 Apr 2013 19:22:54 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/model/category.js",
+			"line": 66,
+			"column": 29,
+			"func": "exports.getCategoryList"
+		},
+		{
+			"time": "Sun, 21 Apr 2013 19:22:54 GMT",
+			"file": "domain.js",
+			"line": 201,
+			"column": 18,
+			"func": "Domain.bind.b"
+		},
+		{
+			"time": "Sun, 21 Apr 2013 19:22:54 GMT",
+			"file": "/home/ismax/model.store/node_modules/mongodb/lib/mongodb/collection.js",
+			"line": 1010,
+			"column": 5,
+			"func": "Collection.findOne"
+		},
+		{
+			"time": "Sun, 21 Apr 2013 19:22:54 GMT",
+			"file": "/home/ismax/model.store/node_modules/mongodb/lib/mongodb/cursor.js",
+			"line": 658,
+			"column": 35,
+			"func": "Cursor.nextObject"
+		},
+		{
+			"time": "Sun, 21 Apr 2013 19:22:54 GMT",
+			"file": "/home/ismax/model.store/node_modules/mongodb/lib/mongodb/cursor.js",
+			"line": 939,
+			"column": 5,
+			"func": "Cursor.close"
+		}
+	]
+}
+{
+	"message": "Cannot read property 'name' of null",
+	"stack": [
+		{
+			"time": "Sun, 21 Apr 2013 19:23:38 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/model/category.js",
+			"line": 66,
+			"column": 29,
+			"func": "exports.getCategoryList"
+		},
+		{
+			"time": "Sun, 21 Apr 2013 19:23:38 GMT",
+			"file": "domain.js",
+			"line": 201,
+			"column": 18,
+			"func": "Domain.bind.b"
+		},
+		{
+			"time": "Sun, 21 Apr 2013 19:23:38 GMT",
+			"file": "/home/ismax/model.store/node_modules/mongodb/lib/mongodb/collection.js",
+			"line": 1010,
+			"column": 5,
+			"func": "Collection.findOne"
+		},
+		{
+			"time": "Sun, 21 Apr 2013 19:23:38 GMT",
+			"file": "/home/ismax/model.store/node_modules/mongodb/lib/mongodb/cursor.js",
+			"line": 658,
+			"column": 35,
+			"func": "Cursor.nextObject"
+		},
+		{
+			"time": "Sun, 21 Apr 2013 19:23:38 GMT",
+			"file": "/home/ismax/model.store/node_modules/mongodb/lib/mongodb/cursor.js",
+			"line": 939,
+			"column": 5,
+			"func": "Cursor.close"
+		}
+	]
+}
+{
+	"message": "Cannot read property 'name' of null",
+	"stack": [
+		{
+			"time": "Sun, 21 Apr 2013 19:24:33 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/model/category.js",
+			"line": 66,
+			"column": 29,
+			"func": "exports.getCategoryList"
+		},
+		{
+			"time": "Sun, 21 Apr 2013 19:24:33 GMT",
+			"file": "domain.js",
+			"line": 201,
+			"column": 18,
+			"func": "Domain.bind.b"
+		},
+		{
+			"time": "Sun, 21 Apr 2013 19:24:33 GMT",
+			"file": "/home/ismax/model.store/node_modules/mongodb/lib/mongodb/collection.js",
+			"line": 1010,
+			"column": 5,
+			"func": "Collection.findOne"
+		},
+		{
+			"time": "Sun, 21 Apr 2013 19:24:33 GMT",
+			"file": "/home/ismax/model.store/node_modules/mongodb/lib/mongodb/cursor.js",
+			"line": 658,
+			"column": 35,
+			"func": "Cursor.nextObject"
+		},
+		{
+			"time": "Sun, 21 Apr 2013 19:24:33 GMT",
+			"file": "/home/ismax/model.store/node_modules/mongodb/lib/mongodb/cursor.js",
+			"line": 939,
+			"column": 5,
+			"func": "Cursor.close"
+		}
+	]
+}
+{
+	"message": "Cannot read property 'name' of null",
+	"stack": [
+		{
+			"time": "Sun, 21 Apr 2013 19:25:13 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/model/category.js",
+			"line": 66,
+			"column": 29,
+			"func": "exports.getCategoryList"
+		},
+		{
+			"time": "Sun, 21 Apr 2013 19:25:13 GMT",
+			"file": "domain.js",
+			"line": 201,
+			"column": 18,
+			"func": "Domain.bind.b"
+		},
+		{
+			"time": "Sun, 21 Apr 2013 19:25:13 GMT",
+			"file": "/home/ismax/model.store/node_modules/mongodb/lib/mongodb/collection.js",
+			"line": 1010,
+			"column": 5,
+			"func": "Collection.findOne"
+		},
+		{
+			"time": "Sun, 21 Apr 2013 19:25:13 GMT",
+			"file": "/home/ismax/model.store/node_modules/mongodb/lib/mongodb/cursor.js",
+			"line": 658,
+			"column": 35,
+			"func": "Cursor.nextObject"
+		},
+		{
+			"time": "Sun, 21 Apr 2013 19:25:13 GMT",
+			"file": "/home/ismax/model.store/node_modules/mongodb/lib/mongodb/cursor.js",
+			"line": 939,
+			"column": 5,
+			"func": "Cursor.close"
+		}
+	]
+}
+{
+	"message": "Unexpected token :",
+	"stack": [
+		{
+			"time": "Mon, 22 Apr 2013 13:50:48 GMT",
+			"file": "module.js",
+			"line": 437,
+			"column": 25,
+			"func": "Module._compile"
+		},
+		{
+			"time": "Mon, 22 Apr 2013 13:50:48 GMT",
+			"file": "module.js",
+			"line": 467,
 			"column": 10,
-			"func": null
+			"func": "Module._extensions..js"
+		},
+		{
+			"time": "Mon, 22 Apr 2013 13:50:48 GMT",
+			"file": "module.js",
+			"line": 356,
+			"column": 32,
+			"func": "Module.load"
+		},
+		{
+			"time": "Mon, 22 Apr 2013 13:50:48 GMT",
+			"file": "module.js",
+			"line": 312,
+			"column": 12,
+			"func": "Module._load"
+		},
+		{
+			"time": "Mon, 22 Apr 2013 13:50:48 GMT",
+			"file": "module.js",
+			"line": 362,
+			"column": 17,
+			"func": "Module.require"
+		}
+	]
+}
+{
+	"message": "Object 5175367166ed7f83ea33df51,51754094d6f60a9020000002 has no method 'puch'",
+	"stack": [
+		{
+			"time": "Mon, 22 Apr 2013 13:53:21 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/model/category.js",
+			"line": 173,
+			"column": 47,
+			"func": "exports.moveCategory"
+		},
+		{
+			"time": "Mon, 22 Apr 2013 13:53:21 GMT",
+			"file": "domain.js",
+			"line": 201,
+			"column": 18,
+			"func": "Domain.bind.b"
+		},
+		{
+			"time": "Mon, 22 Apr 2013 13:53:21 GMT",
+			"file": "/home/ismax/model.store/node_modules/mongodb/lib/mongodb/cursor.js",
+			"line": 653,
+			"column": 5,
+			"func": "Cursor.nextObject"
+		},
+		{
+			"time": "Mon, 22 Apr 2013 13:53:21 GMT",
+			"file": "/home/ismax/model.store/node_modules/mongodb/lib/mongodb/cursor.js",
+			"line": 635,
+			"column": 14,
+			"func": "Cursor.nextObject.commandHandler"
+		},
+		{
+			"time": "Mon, 22 Apr 2013 13:53:21 GMT",
+			"file": "/home/ismax/model.store/node_modules/mongodb/lib/mongodb/db.js",
+			"line": 1709,
+			"column": 18,
+			"func": "Db._executeQueryCommand"
+		}
+	]
+}
+{
+	"message": "Object 5175367166ed7f83ea33df51,51754495e32d72c920000002 has no method 'puch'",
+	"stack": [
+		{
+			"time": "Mon, 22 Apr 2013 14:10:02 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/model/category.js",
+			"line": 172,
+			"column": 59,
+			"func": "exports.moveCategory"
+		},
+		{
+			"time": "Mon, 22 Apr 2013 14:10:02 GMT",
+			"file": "domain.js",
+			"line": 201,
+			"column": 18,
+			"func": "Domain.bind.b"
+		},
+		{
+			"time": "Mon, 22 Apr 2013 14:10:02 GMT",
+			"file": "/home/ismax/model.store/node_modules/mongodb/lib/mongodb/cursor.js",
+			"line": 653,
+			"column": 5,
+			"func": "Cursor.nextObject"
+		},
+		{
+			"time": "Mon, 22 Apr 2013 14:10:02 GMT",
+			"file": "/home/ismax/model.store/node_modules/mongodb/lib/mongodb/cursor.js",
+			"line": 635,
+			"column": 14,
+			"func": "Cursor.nextObject.commandHandler"
+		},
+		{
+			"time": "Mon, 22 Apr 2013 14:10:02 GMT",
+			"file": "/home/ismax/model.store/node_modules/mongodb/lib/mongodb/db.js",
+			"line": 1709,
+			"column": 18,
+			"func": "Db._executeQueryCommand"
+		}
+	]
+}
+{
+	"message": "_ancestors is not defined",
+	"stack": [
+		{
+			"time": "Mon, 22 Apr 2013 14:18:07 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/model/category.js",
+			"line": 174,
+			"column": 97,
+			"func": "exports.moveCategory"
+		},
+		{
+			"time": "Mon, 22 Apr 2013 14:18:07 GMT",
+			"file": "domain.js",
+			"line": 201,
+			"column": 18,
+			"func": "Domain.bind.b"
+		},
+		{
+			"time": "Mon, 22 Apr 2013 14:18:07 GMT",
+			"file": "/home/ismax/model.store/node_modules/mongodb/lib/mongodb/cursor.js",
+			"line": 653,
+			"column": 5,
+			"func": "Cursor.nextObject"
+		},
+		{
+			"time": "Mon, 22 Apr 2013 14:18:07 GMT",
+			"file": "/home/ismax/model.store/node_modules/mongodb/lib/mongodb/cursor.js",
+			"line": 635,
+			"column": 14,
+			"func": "Cursor.nextObject.commandHandler"
+		},
+		{
+			"time": "Mon, 22 Apr 2013 14:18:07 GMT",
+			"file": "/home/ismax/model.store/node_modules/mongodb/lib/mongodb/db.js",
+			"line": 1709,
+			"column": 18,
+			"func": "Db._executeQueryCommand"
+		}
+	]
+}
+{
+	"message": "_ancestors is not defined",
+	"stack": [
+		{
+			"time": "Mon, 22 Apr 2013 14:20:26 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/model/category.js",
+			"line": 174,
+			"column": 97,
+			"func": "exports.moveCategory"
+		},
+		{
+			"time": "Mon, 22 Apr 2013 14:20:26 GMT",
+			"file": "domain.js",
+			"line": 201,
+			"column": 18,
+			"func": "Domain.bind.b"
+		},
+		{
+			"time": "Mon, 22 Apr 2013 14:20:26 GMT",
+			"file": "/home/ismax/model.store/node_modules/mongodb/lib/mongodb/cursor.js",
+			"line": 653,
+			"column": 5,
+			"func": "Cursor.nextObject"
+		},
+		{
+			"time": "Mon, 22 Apr 2013 14:20:26 GMT",
+			"file": "/home/ismax/model.store/node_modules/mongodb/lib/mongodb/cursor.js",
+			"line": 635,
+			"column": 14,
+			"func": "Cursor.nextObject.commandHandler"
+		},
+		{
+			"time": "Mon, 22 Apr 2013 14:20:26 GMT",
+			"file": "/home/ismax/model.store/node_modules/mongodb/lib/mongodb/db.js",
+			"line": 1709,
+			"column": 18,
+			"func": "Db._executeQueryCommand"
+		}
+	]
+}
+{
+	"message": "Object 5175367166ed7f83ea33df51,5175448fe32d72c920000001 has no method 'puch'",
+	"stack": [
+		{
+			"time": "Mon, 22 Apr 2013 14:28:31 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/model/category.js",
+			"line": 173,
+			"column": 45,
+			"func": "exports.moveCategory"
+		},
+		{
+			"time": "Mon, 22 Apr 2013 14:28:31 GMT",
+			"file": "domain.js",
+			"line": 201,
+			"column": 18,
+			"func": "Domain.bind.b"
+		},
+		{
+			"time": "Mon, 22 Apr 2013 14:28:31 GMT",
+			"file": "/home/ismax/model.store/node_modules/mongodb/lib/mongodb/cursor.js",
+			"line": 653,
+			"column": 5,
+			"func": "Cursor.nextObject"
+		},
+		{
+			"time": "Mon, 22 Apr 2013 14:28:31 GMT",
+			"file": "/home/ismax/model.store/node_modules/mongodb/lib/mongodb/cursor.js",
+			"line": 635,
+			"column": 14,
+			"func": "Cursor.nextObject.commandHandler"
+		},
+		{
+			"time": "Mon, 22 Apr 2013 14:28:31 GMT",
+			"file": "/home/ismax/model.store/node_modules/mongodb/lib/mongodb/db.js",
+			"line": 1709,
+			"column": 18,
+			"func": "Db._executeQueryCommand"
+		}
+	]
+}
+{
+	"message": "Object 5175367166ed7f83ea33df51,5175448fe32d72c920000001 has no method 'puch'",
+	"stack": [
+		{
+			"time": "Mon, 22 Apr 2013 14:34:04 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/model/category.js",
+			"line": 173,
+			"column": 45,
+			"func": "exports.moveCategory"
+		},
+		{
+			"time": "Mon, 22 Apr 2013 14:34:04 GMT",
+			"file": "domain.js",
+			"line": 201,
+			"column": 18,
+			"func": "Domain.bind.b"
+		},
+		{
+			"time": "Mon, 22 Apr 2013 14:34:04 GMT",
+			"file": "/home/ismax/model.store/node_modules/mongodb/lib/mongodb/cursor.js",
+			"line": 653,
+			"column": 5,
+			"func": "Cursor.nextObject"
+		},
+		{
+			"time": "Mon, 22 Apr 2013 14:34:04 GMT",
+			"file": "/home/ismax/model.store/node_modules/mongodb/lib/mongodb/cursor.js",
+			"line": 635,
+			"column": 14,
+			"func": "Cursor.nextObject.commandHandler"
+		},
+		{
+			"time": "Mon, 22 Apr 2013 14:34:04 GMT",
+			"file": "/home/ismax/model.store/node_modules/mongodb/lib/mongodb/db.js",
+			"line": 1709,
+			"column": 18,
+			"func": "Db._executeQueryCommand"
+		}
+	]
+}
+{
+	"message": "Object 5175367166ed7f83ea33df51,51754495e32d72c920000002 has no method 'puch'",
+	"stack": [
+		{
+			"time": "Mon, 22 Apr 2013 14:34:59 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/model/category.js",
+			"line": 172,
+			"column": 50,
+			"func": "exports.moveCategory"
+		},
+		{
+			"time": "Mon, 22 Apr 2013 14:34:59 GMT",
+			"file": "domain.js",
+			"line": 201,
+			"column": 18,
+			"func": "Domain.bind.b"
+		},
+		{
+			"time": "Mon, 22 Apr 2013 14:34:59 GMT",
+			"file": "/home/ismax/model.store/node_modules/mongodb/lib/mongodb/cursor.js",
+			"line": 653,
+			"column": 5,
+			"func": "Cursor.nextObject"
+		},
+		{
+			"time": "Mon, 22 Apr 2013 14:34:59 GMT",
+			"file": "/home/ismax/model.store/node_modules/mongodb/lib/mongodb/cursor.js",
+			"line": 635,
+			"column": 14,
+			"func": "Cursor.nextObject.commandHandler"
+		},
+		{
+			"time": "Mon, 22 Apr 2013 14:34:59 GMT",
+			"file": "/home/ismax/model.store/node_modules/mongodb/lib/mongodb/db.js",
+			"line": 1709,
+			"column": 18,
+			"func": "Db._executeQueryCommand"
+		}
+	]
+}
+{
+	"message": "_ancestors is not defined",
+	"stack": [
+		{
+			"time": "Mon, 22 Apr 2013 14:43:43 GMT",
+			"file": "/home/ismax/model.store/hosts/panel/model/category.js",
+			"line": 174,
+			"column": 97,
+			"func": "exports.moveCategory"
+		},
+		{
+			"time": "Mon, 22 Apr 2013 14:43:43 GMT",
+			"file": "domain.js",
+			"line": 201,
+			"column": 18,
+			"func": "Domain.bind.b"
+		},
+		{
+			"time": "Mon, 22 Apr 2013 14:43:43 GMT",
+			"file": "/home/ismax/model.store/node_modules/mongodb/lib/mongodb/cursor.js",
+			"line": 653,
+			"column": 5,
+			"func": "Cursor.nextObject"
+		},
+		{
+			"time": "Mon, 22 Apr 2013 14:43:43 GMT",
+			"file": "/home/ismax/model.store/node_modules/mongodb/lib/mongodb/cursor.js",
+			"line": 635,
+			"column": 14,
+			"func": "Cursor.nextObject.commandHandler"
+		},
+		{
+			"time": "Mon, 22 Apr 2013 14:43:43 GMT",
+			"file": "/home/ismax/model.store/node_modules/mongodb/lib/mongodb/db.js",
+			"line": 1709,
+			"column": 18,
+			"func": "Db._executeQueryCommand"
 		}
 	]
 }

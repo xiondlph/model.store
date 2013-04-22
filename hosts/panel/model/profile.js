@@ -1,5 +1,5 @@
 /**
- * Secure model
+ * Profile model
  *
  * @package    ismax
  * @subpackage Panel host
@@ -8,7 +8,7 @@
 
 /**!
  * Модель данных
- * системой безопастности
+ * профиля
  **/
 
 // Объявление модулей
@@ -36,7 +36,7 @@ exports.getProfile = function(httpErr, id, accept){
 };
 
 // Обновление данных профиля по id
-exports.updateProfile = function(httpErr, id, accept){
+exports.updateProfile = function(httpErr, id, profile, accept){
   mongo.db.collection('operators', httpErr.bind(function(err, collection){
     if(err){
       throw new Error('Mongo error - '+err.message);
@@ -45,7 +45,8 @@ exports.updateProfile = function(httpErr, id, accept){
 
     collection.update({_id: id}, {
       $set: {
-        
+        name: profile.name,
+        email: profile.email
       }
     }, httpErr.bind(function(err, result){
       if(err){
@@ -68,7 +69,7 @@ exports.isExistByEmail = function(httpErr, email, accept){
       return;
     }
 
-    collection.count({email: email}, httpErr.bind(function(err, count){
+    collection.count({'email': email}, httpErr.bind(function(err, count){
       if(err){
         throw new Error('Mongo error - '+err.message);
         return;

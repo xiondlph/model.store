@@ -26,7 +26,7 @@ exports.isXhr = function(httpErr, req, res, next){
   }
 
   res.statusCode = 200;
-  res.setHeader('Content-Type','text/html');
+  res.setHeader('Content-Type','text/html; charset=utf8');
   res.end('no Xhr');
 }
 

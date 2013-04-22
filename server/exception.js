@@ -73,13 +73,13 @@ exports.httpErr = function(req, res){
     try {
       if(req.headers['x-requested-with']){
         if(req.headers['x-requested-with'] == 'XMLHttpRequest'){
-          var result = {
+          var response = {
             success: false
           }
   
           res.statusCode = 500;
           res.setHeader('Content-Type', 'application-json; charset=utf8');
-          res.write(JSON.stringify(result, null, "\t"));
+          res.write(JSON.stringify(response, null, "\t"));
           res.end();
           
           return;
@@ -87,7 +87,7 @@ exports.httpErr = function(req, res){
       }
 
       res.statusCode = 500;
-      res.setHeader('Content-Type','text/html');
+      res.setHeader('Content-Type','text/html; charset=utf8');
       res.end('Internal server error');
     }catch(er){
       console.error('Error sending HTTP response', er, req.url);
